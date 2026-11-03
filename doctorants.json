@@ -1,538 +1,672 @@
 [
   {
     "name": "SEBBANE Chifaa",
-    "year": 2020
+    "year": 2020,
+    "supervision": "RZIZA"
   },
   {
     "name": "IDMOUDA Habib",
-    "year": 2020
+    "year": 2020,
+    "supervision": "MINAOUI"
   },
   {
     "name": "MAZIGHI Abdellah",
-    "year": 2020
+    "year": 2020,
+    "supervision": "BALLIHI"
   },
   {
     "name": "TCHAGAFO Nazif",
-    "year": 2020
+    "year": 2020,
+    "supervision": "AHIOD"
   },
   {
     "name": "HMAIDA Sanaa",
-    "year": 2021
+    "year": 2021,
+    "supervision": "EL HASSOUNI"
   },
   {
     "name": "BOUKBIR Halima",
-    "year": 2021
+    "year": 2021,
+    "supervision": "EL MALIANI"
   },
   {
     "name": "ZAHID Meryem",
-    "year": 2021
+    "year": 2021,
+    "supervision": "EL ALAOUI/RZIZA"
   },
   {
     "name": "MOUMNI Nour-eddine",
-    "year": 2021
+    "year": 2021,
+    "supervision": "EL ALAOUI"
   },
   {
     "name": "GOUNINE Yassine",
-    "year": 2021
+    "year": 2021,
+    "supervision": "MINAOUI/LAAROUSSI"
   },
   {
     "name": "EL ANZOUL Nouhayla",
-    "year": 2022
+    "year": 2022,
+    "supervision": "KARFA BEKALI/MINAOUI"
   },
   {
     "name": "BAZAY Fatima Ez-zahraa",
-    "year": 2022
+    "year": 2022,
+    "supervision": "EL MALIANI"
   },
   {
     "name": "BEZZAZI Fadwa",
-    "year": 2022
+    "year": 2022,
+    "supervision": "LOTFI"
   },
   {
     "name": "EDDAOUDI Zahra",
-    "year": 2022
+    "year": 2022,
+    "supervision": "MINAOUI/EL GHAZI"
   },
   {
     "name": "NAJI Nidal",
-    "year": 2022
+    "year": 2022,
+    "supervision": "MINAOUI/EL HAZITI"
   },
   {
     "name": "HANINE Meryem",
-    "year": 2022
+    "year": 2022,
+    "supervision": "OUMSSIS/ZYTOUNE"
   },
   {
     "name": "BOUDMEN Khadija",
-    "year": 2022
+    "year": 2022,
+    "supervision": "MINAOUI/AARAB"
   },
   {
     "name": "HADDIOUI Yassine",
-    "year": 2022
+    "year": 2022,
+    "supervision": "MINAOUI/RAHMOUNI"
   },
   {
     "name": "IATTA Aicha",
-    "year": 2022
+    "year": 2022,
+    "supervision": "MINAOUI/BELMAJDOUB"
   },
   {
     "name": "LICER Marwa",
-    "year": 2022
+    "year": 2022,
+    "supervision": "MINAOUI/BELMAJDOUB"
   },
   {
     "name": "LAOULIDI LAHKIM Imad",
-    "year": 2022
+    "year": 2022,
+    "supervision": "RHOULAMI"
   },
   {
     "name": "ZRAIDI Mourad",
-    "year": 2022
+    "year": 2022,
+    "supervision": "RHOULAMI"
   },
   {
     "name": "NKILA Bouchra",
-    "year": 2022
+    "year": 2022,
+    "supervision": "LAANAYA"
   },
   {
     "name": "EL MOHAMADI Houda",
-    "year": 2023
+    "year": 2023,
+    "supervision": "EL HASSOUNI"
   },
   {
     "name": "EL BELGHITI Younes",
-    "year": 2023
+    "year": 2023,
+    "supervision": "MINAOUI/DAOUDI"
   },
   {
     "name": "SIYAH Youssef",
-    "year": 2023
+    "year": 2023,
+    "supervision": "MINAOUI/BELMAJDOUB"
   },
   {
     "name": "EL OMARI Mouad",
-    "year": 2023
+    "year": 2023,
+    "supervision": "MINAOUI/BELMAJDOUB"
   },
   {
     "name": "JEBBAR Imane",
-    "year": 2023
+    "year": 2023,
+    "supervision": "MINAOUI/MEKOUAR"
   },
   {
     "name": "LAKRAD Youssef",
-    "year": 2023
+    "year": 2023,
+    "supervision": "MINAOUI/DAOUDI"
   },
   {
     "name": "MOHIDDINE Meryem",
-    "year": 2023
+    "year": 2023,
+    "supervision": "RHOULAMI"
   },
   {
     "name": "DAALI Noussaiba",
-    "year": 2023
+    "year": 2023,
+    "supervision": "MOULINE/CHERDAL"
   },
   {
     "name": "EL HOUSNA Imane",
-    "year": 2023
+    "year": 2023,
+    "supervision": "MINAOUI/OUADOU"
   },
   {
     "name": "ELAZRI Othmane",
-    "year": 2023
+    "year": 2023,
+    "supervision": "MINAOUI/BELMAJDOUB"
   },
   {
     "name": "AFARTASS Soumia",
-    "year": 2023
+    "year": 2023,
+    "supervision": "MINAOUI/ATAALAH"
   },
   {
     "name": "MOKFI Chaima",
-    "year": 2023
+    "year": 2023,
+    "supervision": "RHOULAMI"
   },
   {
     "name": "EL YOUSSOUFI Maryam",
-    "year": 2023
+    "year": 2023,
+    "supervision": "RZIZA"
   },
   {
     "name": "BOUJMIRAZ Salma",
-    "year": 2023
+    "year": 2023,
+    "supervision": "EL MALIANI/DARHMAOUI"
   },
   {
     "name": "NZOBANTOU Emmanuel",
-    "year": 2023
+    "year": 2023,
+    "supervision": "EL HASSOUNI"
   },
   {
     "name": "ONTSIRA Loick",
-    "year": 2023
+    "year": 2023,
+    "supervision": "MINAOUI/EL HAZITI"
   },
   {
     "name": "SENNOUNI Sara",
-    "year": 2023
+    "year": 2023,
+    "supervision": "MINAOUI/BARA"
   },
   {
     "name": "MELLIANI Asmae",
-    "year": 2023
+    "year": 2023,
+    "supervision": "RZIZA"
   },
   {
     "name": "BENALLA Aiman",
-    "year": 2024
+    "year": 2024,
+    "supervision": "KARFA     BEKALI/SAIDI"
   },
   {
     "name": "LAMAALLAOUI Fatiha",
-    "year": 2024
+    "year": 2024,
+    "supervision": "LOTFI"
   },
   {
     "name": "AZIACH Nouhaila",
-    "year": 2024
+    "year": 2024,
+    "supervision": "MINAOUI/OUADOU"
   },
   {
     "name": "BOUZAIDI TIALI Imane",
-    "year": 2024
+    "year": 2024,
+    "supervision": "MINAOUI/AARAB"
   },
   {
     "name": "NAHRI Doha",
-    "year": 2024
+    "year": 2024,
+    "supervision": "MINAOUI/BELMAJDOUB"
   },
   {
     "name": "BAZHAR Rachid",
-    "year": 2024
+    "year": 2024,
+    "supervision": "HIMMI/MEKOUAR"
   },
   {
     "name": "MASSOUAD Nouhaila",
-    "year": 2024
+    "year": 2024,
+    "supervision": "MINAOUI/BARA"
   },
   {
     "name": "ELALAOUY ELMHAMDI Reda",
-    "year": 2024
+    "year": 2024,
+    "supervision": "MINAOUI/BELMAJDOUB"
   },
   {
     "name": "MANFOUCHI Bouchra",
-    "year": 2024
+    "year": 2024,
+    "supervision": "MINAOUI/BELMAJDOUB"
   },
   {
     "name": "EZAHIDI Houda",
-    "year": 2024
+    "year": 2024,
+    "supervision": "MINAOUI/SAADANE"
   },
   {
     "name": "Rhefrali Najwa",
-    "year": 2024
+    "year": 2024,
+    "supervision": "MINAOUI/SAHBANI"
   },
   {
     "name": "ERAFII Walid",
-    "year": 2024
+    "year": 2024,
+    "supervision": "RHOULAMI"
   },
   {
     "name": "ZRIMEK Zakariae",
-    "year": 2024
+    "year": 2024,
+    "supervision": "EL HASSOUNI"
   },
   {
     "name": "EL GUAREH Ibtissam",
-    "year": 2024
+    "year": 2024,
+    "supervision": "HIMMI /MEKOUAR"
   },
   {
     "name": "FADDANI Zineb",
-    "year": 2024
+    "year": 2024,
+    "supervision": "HIMMI/BARA"
   },
   {
     "name": "AZZI Mohamed-Ali",
-    "year": 2024
+    "year": 2024,
+    "supervision": "MAAOUNI"
   },
   {
     "name": "ADIM Khadija",
-    "year": 2024
+    "year": 2024,
+    "supervision": "MINAOUI/OUADOU"
   },
   {
     "name": "BAKKALI Reda",
-    "year": 2024
+    "year": 2024,
+    "supervision": "MINAOUI/BELMAJDOUB"
   },
   {
     "name": "LAGHBISSI Safaa",
-    "year": 2024
+    "year": 2024,
+    "supervision": "MINAOUI/BARA"
   },
   {
     "name": "TOUMI Nawar",
-    "year": 2024
+    "year": 2024,
+    "supervision": "MOULINE/CHARDAL"
   },
   {
     "name": "MALIKI Wissal",
-    "year": 2024
+    "year": 2024,
+    "supervision": "OUADOU/MOHTARAM"
   },
   {
     "name": "SALHI Abderrahman",
-    "year": 2024
+    "year": 2024,
+    "supervision": "EL HASSOUNI"
   },
   {
     "name": "EL MOUTAOUAKKIL Abdelhak",
-    "year": 2024
+    "year": 2024,
+    "supervision": "EL RHALEB/BARA"
   },
   {
     "name": "BZZOU Mounir",
-    "year": 2024
+    "year": 2024,
+    "supervision": "KARFA BEKALI"
   },
   {
     "name": "CHAJARI Issam",
-    "year": 2024
+    "year": 2024,
+    "supervision": "KARFA BEKALI"
   },
   {
     "name": "LAZAAR Zakaria",
-    "year": 2024
+    "year": 2024,
+    "supervision": "KARFA BEKALI"
   },
   {
     "name": "MEZIANE Karima",
-    "year": 2024
+    "year": 2024,
+    "supervision": "KARFA BEKALI"
   },
   {
     "name": "ASSADI Mouad",
-    "year": 2024
+    "year": 2024,
+    "supervision": "MINAOUI/SAHBANI"
   },
   {
     "name": "BENLAMKADEM Ayoub",
-    "year": 2024
+    "year": 2024,
+    "supervision": "MINAOUI/EL GHAZI"
   },
   {
     "name": "KATIBA Imad",
-    "year": 2024
+    "year": 2024,
+    "supervision": "MINAOUI/BELMAJDOUB"
   },
   {
     "name": "LAZAAR Ahmed",
-    "year": 2024
+    "year": 2024,
+    "supervision": "MINAOUI/EL GHAZI"
   },
   {
     "name": "OUNINISSE Nour-Eddine",
-    "year": 2024
+    "year": 2024,
+    "supervision": "MINAOUI/LAHMIDI"
   },
   {
     "name": "ZAGHLOUN Wafae",
-    "year": 2024
+    "year": 2024,
+    "supervision": "MINAOUI/ATAALAH"
   },
   {
     "name": "HITRANE Chaimae",
-    "year": 2024
+    "year": 2024,
+    "supervision": "OUADOU"
   },
   {
     "name": "CHEMAOU Doha",
-    "year": 2024
+    "year": 2024,
+    "supervision": "OUMSSIS"
   },
   {
     "name": "JAMAI Abdelali",
-    "year": 2024
+    "year": 2024,
+    "supervision": "RZIZA"
   },
   {
     "name": "EL AIMAR Salma",
-    "year": 2025
+    "year": 2025,
+    "supervision": "EL      MALIANI/EL HASSOUNI"
   },
   {
     "name": "ELAIDI Zakariae",
-    "year": 2025
+    "year": 2025,
+    "supervision": "EL HASSOUNI"
   },
   {
     "name": "AMMOURI Yassire",
-    "year": 2025
+    "year": 2025,
+    "supervision": "KARFA      BEKALI/SAIDI"
   },
   {
     "name": "LAIT Oumaima",
-    "year": 2025
+    "year": 2025,
+    "supervision": "LOTFI/EL MALIANI"
   },
   {
     "name": "EL OUBAIDI Halima",
-    "year": 2025
+    "year": 2025,
+    "supervision": "MINAOUI/ATAAALLAH"
   },
   {
     "name": "HAMZAOUI Nada",
-    "year": 2025
+    "year": 2025,
+    "supervision": "MINAOUI/IBADAH"
   },
   {
     "name": "BOUKHRIS Leila",
-    "year": 2025
+    "year": 2025,
+    "supervision": "MINAOUI/NAZIH"
   },
   {
     "name": "ZAARI JABRI Ahmed",
-    "year": 2025
+    "year": 2025,
+    "supervision": "OUADOU"
   },
   {
     "name": "EL MGHABAR Bilal",
-    "year": 2025
+    "year": 2025,
+    "supervision": "RZIZA"
   },
   {
     "name": "HASSOINE Ayoub",
-    "year": 2025
+    "year": 2025,
+    "supervision": "MINAOUI/BELMAJDOUB"
   },
   {
     "name": "ZARROUK Othmane",
-    "year": 2025
+    "year": 2025,
+    "supervision": "MINAOUI/BELMAJDOUB"
   },
   {
     "name": "EL QABA Meriam",
-    "year": 2025
+    "year": 2025,
+    "supervision": "BALLIHI       /BELHAJEM"
   },
   {
     "name": "EL HASSOUNI Oussama",
-    "year": 2025
+    "year": 2025,
+    "supervision": "EL AMRANI /HOUICHIME"
   },
   {
     "name": "ARIB Ayoub",
-    "year": 2025
+    "year": 2025,
+    "supervision": "EL HASSOUNI"
   },
   {
     "name": "BENZOUITINE Zakariae",
-    "year": 2025
+    "year": 2025,
+    "supervision": "EL HASSOUNI"
   },
   {
     "name": "DEKPE Kossi Elolo Bernard",
-    "year": 2025
+    "year": 2025,
+    "supervision": "EL      HASSOUNI/EL MALIANI"
   },
   {
     "name": "GAMAL Hibat Allah",
-    "year": 2025
+    "year": 2025,
+    "supervision": "EL HASSOUNI"
   },
   {
     "name": "LABRAZI Riham",
-    "year": 2025
+    "year": 2025,
+    "supervision": "EL HAZTI/EL HASSOUNI"
   },
   {
     "name": "IGDMIOUNE Soufiane",
-    "year": 2025
+    "year": 2025,
+    "supervision": "EL RHALEB/HAMIDI"
   },
   {
     "name": "BOUKHANNI Doha",
-    "year": 2025
+    "year": 2025,
+    "supervision": "HOUARI/MOULINE"
   },
   {
     "name": "DERGAOUI Oumaima",
-    "year": 2025
+    "year": 2025,
+    "supervision": "KARFA      BEKALI/SAIDI"
   },
   {
     "name": "ORHANOU Charaf",
-    "year": 2025
+    "year": 2025,
+    "supervision": "KARFA BEKALI"
   },
   {
     "name": "OULD SENNI Hafsa",
-    "year": 2025
+    "year": 2025,
+    "supervision": "KARFA BEKALI"
   },
   {
     "name": "YADAOUI Aya",
-    "year": 2025
+    "year": 2025,
+    "supervision": "KARFA BEKALI"
   },
   {
     "name": "ZAKRY Etayeb",
-    "year": 2025
+    "year": 2025,
+    "supervision": "KARFA BEKALI"
   },
   {
     "name": "EL TAYEB Karima",
-    "year": 2025
+    "year": 2025,
+    "supervision": "LAANAYA"
   },
   {
     "name": "ELKHIRAOUI Taha",
-    "year": 2025
+    "year": 2025,
+    "supervision": "LOTFI/LAGHMATI"
   },
   {
     "name": "HASSANI Maryeme",
-    "year": 2025
+    "year": 2025,
+    "supervision": "LOTFI"
   },
   {
     "name": "TALEB Youness",
-    "year": 2025
+    "year": 2025,
+    "supervision": "MEKOUAR"
   },
   {
     "name": "EL ALIOUI Mohamed Reda",
-    "year": 2025
+    "year": 2025,
+    "supervision": "MEKOUAR"
   },
   {
     "name": "GRIMEL Dina",
-    "year": 2025
+    "year": 2025,
+    "supervision": "MINAOUI/AARAB"
   },
   {
     "name": "ALLAL Yahia",
-    "year": 2025
+    "year": 2025,
+    "supervision": "MINAOUI/AARAB"
   },
   {
     "name": "ETTAKIFI Houssam",
-    "year": 2025
+    "year": 2025,
+    "supervision": "MINAOUI/AARAB"
   },
   {
     "name": "GAOUZI Fatima",
-    "year": 2025
+    "year": 2025,
+    "supervision": "MINAOUI/AARAB"
   },
   {
     "name": "EL HAROUI Khalil",
-    "year": 2025
+    "year": 2025,
+    "supervision": "MINAOUI/BELMAJDOUB"
   },
   {
     "name": "ZAOUI Yassine",
-    "year": 2025
+    "year": 2025,
+    "supervision": "MINAOUI/BELMAJDOUB"
   },
   {
     "name": "MAKEA Lamya",
-    "year": 2025
+    "year": 2025,
+    "supervision": "MINAOUI/NAZIH"
   },
   {
     "name": "OUAKRIM Noussaiba",
-    "year": 2025
+    "year": 2025,
+    "supervision": "MINAOUI/NAZIH"
   },
   {
     "name": "EL GHAZOUANI Btissam",
-    "year": 2025
+    "year": 2025,
+    "supervision": "MINAOUI/LAAROUSSI"
   },
   {
     "name": "LAOUAMRI Hamza",
-    "year": 2025
+    "year": 2025,
+    "supervision": "MOULINE"
   },
   {
     "name": "SOUIHLA Choura",
-    "year": 2025
+    "year": 2025,
+    "supervision": "MOULINE/CHARDAL"
   },
   {
     "name": "SAMHI Ferdaouss",
-    "year": 2025
+    "year": 2025,
+    "supervision": "OUADOU/SAHBANI"
   },
   {
     "name": "CHBIHI Zainab",
-    "year": 2025
+    "year": 2025,
+    "supervision": "RHOULAMI"
   },
   {
     "name": "OUAKMI Youssef",
-    "year": 2025
+    "year": 2025,
+    "supervision": "RZIZA/BELHAJEM"
   },
   {
     "name": "OUJAOU Hiba",
-    "year": 2025
+    "year": 2025,
+    "supervision": "RZIZA"
   },
   {
     "name": "AIT ALI MHAMED Saadia",
-    "year": 2025
+    "year": 2025,
+    "supervision": "BALLIHI"
   },
   {
     "name": "DAFIR Brahim",
-    "year": 2025
+    "year": 2025,
+    "supervision": "BALLIHI"
   },
   {
     "name": "EL HAMZI Saida",
-    "year": 2025
+    "year": 2025,
+    "supervision": "BALLIHI"
   },
   {
     "name": "BHIHI Meriem",
-    "year": 2025
+    "year": 2025,
+    "supervision": "MINAOUI/ROUIJEL"
   },
   {
     "name": "ARI Chaymaa",
-    "year": 2025
+    "year": 2025,
+    "supervision": "EL   AMRANI/HOUICHIME"
   },
   {
     "name": "JRIRI Imane",
-    "year": 2025
+    "year": 2025,
+    "supervision": "EL   AMRANI/HOUICHIME"
   },
   {
     "name": "HITAR Omar",
-    "year": 2025
+    "year": 2025,
+    "supervision": "EL HASSOUNI"
   },
   {
     "name": "MADANI Anass",
-    "year": 2025
+    "year": 2025,
+    "supervision": "HOUARI"
   },
   {
     "name": "ATATRI Hicham",
-    "year": 2025
+    "year": 2025,
+    "supervision": "KARFA    BEKALI   / SAIDI"
   },
   {
     "name": "ACHBAB Mohamed",
-    "year": 2025
+    "year": 2025,
+    "supervision": "LOTFI"
   },
   {
     "name": "BEN SEFFAJ Widad",
-    "year": 2025
+    "year": 2025,
+    "supervision": "LOTFI"
   },
   {
     "name": "FRIHI Saad",
-    "year": 2025
+    "year": 2025,
+    "supervision": "MAHMOUDI"
   },
   {
     "name": "KAISSER Cherki",
-    "year": 2025
+    "year": 2025,
+    "supervision": "MINAOUI/BARA"
   }
 ]

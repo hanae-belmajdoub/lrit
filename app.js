@@ -59,3 +59,6 @@ mentions:()=>heading('INFORMATIONS','À propos de ce site')+`<p>Ce site présent
 document.querySelectorAll('[data-modal]').forEach(b=>b.addEventListener('click',()=>{const key=b.dataset.modal;if(key==='annuaire')showMembers();else if(key==='master')showMaster();else if(key==='publications')showPublications();else if(pages[key])openDialog(pages[key]())}));
 const observer=new IntersectionObserver(entries=>{entries.forEach(e=>{if(e.isIntersecting){nav.querySelectorAll('a').forEach(a=>a.classList.toggle('active',a.getAttribute('href').split('#')[1]===e.target.id))}})},{rootMargin:'-20% 0px -65% 0px'});
 document.querySelectorAll('main section[id]').forEach(s=>observer.observe(s));
+
+// Keep one navigation group open; close on Escape and outside interaction.
+const navGroups=[...document.querySelectorAll('.nav-group')];navGroups.forEach(group=>group.addEventListener('toggle',()=>{if(group.open)navGroups.forEach(other=>{if(other!==group)other.open=false})}));document.addEventListener('click',e=>{if(!e.target.closest('.nav-group'))navGroups.forEach(g=>g.open=false)});document.addEventListener('keydown',e=>{if(e.key==='Escape')navGroups.forEach(g=>{if(g.open){g.open=false;g.querySelector('summary').focus()}})});

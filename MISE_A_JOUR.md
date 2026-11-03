@@ -1,0 +1,1 @@
+Menu regroupé, Scopus ajouté à la fiche Hanae, accueil allégé, encadrement doctoral, DOI et présentation anglaise. Remplacer les fichiers portant le même nom dans le dépôt GitHub. Ajouter hanae-belmajdoub.html et assets/hanae-belmajdoub.png. La version hébergée sur GitHub ne se met pas à jour automatiquement depuis le site de prévisualisation.
