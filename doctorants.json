@@ -1,0 +1,538 @@
+[
+  {
+    "name": "SEBBANE Chifaa",
+    "year": 2020
+  },
+  {
+    "name": "IDMOUDA Habib",
+    "year": 2020
+  },
+  {
+    "name": "MAZIGHI Abdellah",
+    "year": 2020
+  },
+  {
+    "name": "TCHAGAFO Nazif",
+    "year": 2020
+  },
+  {
+    "name": "HMAIDA Sanaa",
+    "year": 2021
+  },
+  {
+    "name": "BOUKBIR Halima",
+    "year": 2021
+  },
+  {
+    "name": "ZAHID Meryem",
+    "year": 2021
+  },
+  {
+    "name": "MOUMNI Nour-eddine",
+    "year": 2021
+  },
+  {
+    "name": "GOUNINE Yassine",
+    "year": 2021
+  },
+  {
+    "name": "EL ANZOUL Nouhayla",
+    "year": 2022
+  },
+  {
+    "name": "BAZAY Fatima Ez-zahraa",
+    "year": 2022
+  },
+  {
+    "name": "BEZZAZI Fadwa",
+    "year": 2022
+  },
+  {
+    "name": "EDDAOUDI Zahra",
+    "year": 2022
+  },
+  {
+    "name": "NAJI Nidal",
+    "year": 2022
+  },
+  {
+    "name": "HANINE Meryem",
+    "year": 2022
+  },
+  {
+    "name": "BOUDMEN Khadija",
+    "year": 2022
+  },
+  {
+    "name": "HADDIOUI Yassine",
+    "year": 2022
+  },
+  {
+    "name": "IATTA Aicha",
+    "year": 2022
+  },
+  {
+    "name": "LICER Marwa",
+    "year": 2022
+  },
+  {
+    "name": "LAOULIDI LAHKIM Imad",
+    "year": 2022
+  },
+  {
+    "name": "ZRAIDI Mourad",
+    "year": 2022
+  },
+  {
+    "name": "NKILA Bouchra",
+    "year": 2022
+  },
+  {
+    "name": "EL MOHAMADI Houda",
+    "year": 2023
+  },
+  {
+    "name": "EL BELGHITI Younes",
+    "year": 2023
+  },
+  {
+    "name": "SIYAH Youssef",
+    "year": 2023
+  },
+  {
+    "name": "EL OMARI Mouad",
+    "year": 2023
+  },
+  {
+    "name": "JEBBAR Imane",
+    "year": 2023
+  },
+  {
+    "name": "LAKRAD Youssef",
+    "year": 2023
+  },
+  {
+    "name": "MOHIDDINE Meryem",
+    "year": 2023
+  },
+  {
+    "name": "DAALI Noussaiba",
+    "year": 2023
+  },
+  {
+    "name": "EL HOUSNA Imane",
+    "year": 2023
+  },
+  {
+    "name": "ELAZRI Othmane",
+    "year": 2023
+  },
+  {
+    "name": "AFARTASS Soumia",
+    "year": 2023
+  },
+  {
+    "name": "MOKFI Chaima",
+    "year": 2023
+  },
+  {
+    "name": "EL YOUSSOUFI Maryam",
+    "year": 2023
+  },
+  {
+    "name": "BOUJMIRAZ Salma",
+    "year": 2023
+  },
+  {
+    "name": "NZOBANTOU Emmanuel",
+    "year": 2023
+  },
+  {
+    "name": "ONTSIRA Loick",
+    "year": 2023
+  },
+  {
+    "name": "SENNOUNI Sara",
+    "year": 2023
+  },
+  {
+    "name": "MELLIANI Asmae",
+    "year": 2023
+  },
+  {
+    "name": "BENALLA Aiman",
+    "year": 2024
+  },
+  {
+    "name": "LAMAALLAOUI Fatiha",
+    "year": 2024
+  },
+  {
+    "name": "AZIACH Nouhaila",
+    "year": 2024
+  },
+  {
+    "name": "BOUZAIDI TIALI Imane",
+    "year": 2024
+  },
+  {
+    "name": "NAHRI Doha",
+    "year": 2024
+  },
+  {
+    "name": "BAZHAR Rachid",
+    "year": 2024
+  },
+  {
+    "name": "MASSOUAD Nouhaila",
+    "year": 2024
+  },
+  {
+    "name": "ELALAOUY ELMHAMDI Reda",
+    "year": 2024
+  },
+  {
+    "name": "MANFOUCHI Bouchra",
+    "year": 2024
+  },
+  {
+    "name": "EZAHIDI Houda",
+    "year": 2024
+  },
+  {
+    "name": "Rhefrali Najwa",
+    "year": 2024
+  },
+  {
+    "name": "ERAFII Walid",
+    "year": 2024
+  },
+  {
+    "name": "ZRIMEK Zakariae",
+    "year": 2024
+  },
+  {
+    "name": "EL GUAREH Ibtissam",
+    "year": 2024
+  },
+  {
+    "name": "FADDANI Zineb",
+    "year": 2024
+  },
+  {
+    "name": "AZZI Mohamed-Ali",
+    "year": 2024
+  },
+  {
+    "name": "ADIM Khadija",
+    "year": 2024
+  },
+  {
+    "name": "BAKKALI Reda",
+    "year": 2024
+  },
+  {
+    "name": "LAGHBISSI Safaa",
+    "year": 2024
+  },
+  {
+    "name": "TOUMI Nawar",
+    "year": 2024
+  },
+  {
+    "name": "MALIKI Wissal",
+    "year": 2024
+  },
+  {
+    "name": "SALHI Abderrahman",
+    "year": 2024
+  },
+  {
+    "name": "EL MOUTAOUAKKIL Abdelhak",
+    "year": 2024
+  },
+  {
+    "name": "BZZOU Mounir",
+    "year": 2024
+  },
+  {
+    "name": "CHAJARI Issam",
+    "year": 2024
+  },
+  {
+    "name": "LAZAAR Zakaria",
+    "year": 2024
+  },
+  {
+    "name": "MEZIANE Karima",
+    "year": 2024
+  },
+  {
+    "name": "ASSADI Mouad",
+    "year": 2024
+  },
+  {
+    "name": "BENLAMKADEM Ayoub",
+    "year": 2024
+  },
+  {
+    "name": "KATIBA Imad",
+    "year": 2024
+  },
+  {
+    "name": "LAZAAR Ahmed",
+    "year": 2024
+  },
+  {
+    "name": "OUNINISSE Nour-Eddine",
+    "year": 2024
+  },
+  {
+    "name": "ZAGHLOUN Wafae",
+    "year": 2024
+  },
+  {
+    "name": "HITRANE Chaimae",
+    "year": 2024
+  },
+  {
+    "name": "CHEMAOU Doha",
+    "year": 2024
+  },
+  {
+    "name": "JAMAI Abdelali",
+    "year": 2024
+  },
+  {
+    "name": "EL AIMAR Salma",
+    "year": 2025
+  },
+  {
+    "name": "ELAIDI Zakariae",
+    "year": 2025
+  },
+  {
+    "name": "AMMOURI Yassire",
+    "year": 2025
+  },
+  {
+    "name": "LAIT Oumaima",
+    "year": 2025
+  },
+  {
+    "name": "EL OUBAIDI Halima",
+    "year": 2025
+  },
+  {
+    "name": "HAMZAOUI Nada",
+    "year": 2025
+  },
+  {
+    "name": "BOUKHRIS Leila",
+    "year": 2025
+  },
+  {
+    "name": "ZAARI JABRI Ahmed",
+    "year": 2025
+  },
+  {
+    "name": "EL MGHABAR Bilal",
+    "year": 2025
+  },
+  {
+    "name": "HASSOINE Ayoub",
+    "year": 2025
+  },
+  {
+    "name": "ZARROUK Othmane",
+    "year": 2025
+  },
+  {
+    "name": "EL QABA Meriam",
+    "year": 2025
+  },
+  {
+    "name": "EL HASSOUNI Oussama",
+    "year": 2025
+  },
+  {
+    "name": "ARIB Ayoub",
+    "year": 2025
+  },
+  {
+    "name": "BENZOUITINE Zakariae",
+    "year": 2025
+  },
+  {
+    "name": "DEKPE Kossi Elolo Bernard",
+    "year": 2025
+  },
+  {
+    "name": "GAMAL Hibat Allah",
+    "year": 2025
+  },
+  {
+    "name": "LABRAZI Riham",
+    "year": 2025
+  },
+  {
+    "name": "IGDMIOUNE Soufiane",
+    "year": 2025
+  },
+  {
+    "name": "BOUKHANNI Doha",
+    "year": 2025
+  },
+  {
+    "name": "DERGAOUI Oumaima",
+    "year": 2025
+  },
+  {
+    "name": "ORHANOU Charaf",
+    "year": 2025
+  },
+  {
+    "name": "OULD SENNI Hafsa",
+    "year": 2025
+  },
+  {
+    "name": "YADAOUI Aya",
+    "year": 2025
+  },
+  {
+    "name": "ZAKRY Etayeb",
+    "year": 2025
+  },
+  {
+    "name": "EL TAYEB Karima",
+    "year": 2025
+  },
+  {
+    "name": "ELKHIRAOUI Taha",
+    "year": 2025
+  },
+  {
+    "name": "HASSANI Maryeme",
+    "year": 2025
+  },
+  {
+    "name": "TALEB Youness",
+    "year": 2025
+  },
+  {
+    "name": "EL ALIOUI Mohamed Reda",
+    "year": 2025
+  },
+  {
+    "name": "GRIMEL Dina",
+    "year": 2025
+  },
+  {
+    "name": "ALLAL Yahia",
+    "year": 2025
+  },
+  {
+    "name": "ETTAKIFI Houssam",
+    "year": 2025
+  },
+  {
+    "name": "GAOUZI Fatima",
+    "year": 2025
+  },
+  {
+    "name": "EL HAROUI Khalil",
+    "year": 2025
+  },
+  {
+    "name": "ZAOUI Yassine",
+    "year": 2025
+  },
+  {
+    "name": "MAKEA Lamya",
+    "year": 2025
+  },
+  {
+    "name": "OUAKRIM Noussaiba",
+    "year": 2025
+  },
+  {
+    "name": "EL GHAZOUANI Btissam",
+    "year": 2025
+  },
+  {
+    "name": "LAOUAMRI Hamza",
+    "year": 2025
+  },
+  {
+    "name": "SOUIHLA Choura",
+    "year": 2025
+  },
+  {
+    "name": "SAMHI Ferdaouss",
+    "year": 2025
+  },
+  {
+    "name": "CHBIHI Zainab",
+    "year": 2025
+  },
+  {
+    "name": "OUAKMI Youssef",
+    "year": 2025
+  },
+  {
+    "name": "OUJAOU Hiba",
+    "year": 2025
+  },
+  {
+    "name": "AIT ALI MHAMED Saadia",
+    "year": 2025
+  },
+  {
+    "name": "DAFIR Brahim",
+    "year": 2025
+  },
+  {
+    "name": "EL HAMZI Saida",
+    "year": 2025
+  },
+  {
+    "name": "BHIHI Meriem",
+    "year": 2025
+  },
+  {
+    "name": "ARI Chaymaa",
+    "year": 2025
+  },
+  {
+    "name": "JRIRI Imane",
+    "year": 2025
+  },
+  {
+    "name": "HITAR Omar",
+    "year": 2025
+  },
+  {
+    "name": "MADANI Anass",
+    "year": 2025
+  },
+  {
+    "name": "ATATRI Hicham",
+    "year": 2025
+  },
+  {
+    "name": "ACHBAB Mohamed",
+    "year": 2025
+  },
+  {
+    "name": "BEN SEFFAJ Widad",
+    "year": 2025
+  },
+  {
+    "name": "FRIHI Saad",
+    "year": 2025
+  },
+  {
+    "name": "KAISSER Cherki",
+    "year": 2025
+  }
+]
