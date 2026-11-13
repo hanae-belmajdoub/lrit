@@ -15,7 +15,7 @@ function supervisorKey(name) {
 }
 
 function externalLink(link) {
-  if (!/^https?:\/\//i.test(link.url)) return '';
+  if (!/^(?:https?:\/\/|(?:\.\.\/)?master-it\/)/i.test(link.url)) return '';
   return `<a href="${escapeHTML(link.url)}" target="_blank" rel="noopener">${escapeHTML(link.label)} ↗</a>`;
 }
 
