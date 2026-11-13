@@ -1,9 +1,0 @@
-(()=>{
-const reduced=matchMedia('(prefers-reduced-motion: reduce)');
-const toggle=document.querySelector('.motion-toggle');
-function setMotion(paused){document.body.classList.toggle('motion-paused',paused);if(toggle){toggle.setAttribute('aria-pressed',String(paused));toggle.setAttribute('aria-label',paused?'Activer les animations':'Mettre en pause les animations');toggle.innerHTML=paused?'Animations <span aria-hidden="true">▷</span>':'Animations <span aria-hidden="true">Ⅱ</span>'}}
-setMotion(reduced.matches);toggle?.addEventListener('click',()=>setMotion(!document.body.classList.contains('motion-paused')));reduced.addEventListener('change',e=>setMotion(e.matches));
-if(!reduced.matches&&'IntersectionObserver' in window){const observer=new IntersectionObserver(entries=>{entries.forEach(e=>{if(e.isIntersecting){e.target.classList.add('reveal-visible');observer.unobserve(e.target)}})},{threshold:0.08});document.querySelectorAll('.about-grid,.timeline,.research-grid,.people-grid,.training-grid,.resource-grid,.page-cta,.direction-strip').forEach(e=>{e.classList.add('reveal-ready');observer.observe(e)})}
-let data;
-document.querySelectorAll('[data-specialty]').forEach(button=>button.addEventListener('click',async()=>{try{data??=await fetch('specialties.json').then(r=>{if(!r.ok)throw Error();return r.json()});const i=Number(button.dataset.specialty),group=data[i];openDialog(heading(`LES SPÉCIALITÉS DU LRIT / 0${i+1}`,group.title)+`<p>Les thématiques de recherche de ce domaine, telles qu’elles sont présentées dans le rapport d’activité du laboratoire.</p><ul class="specialty-detail">${group.themes.map(t=>`<li>${escapeHTML(t)}</li>`).join('')}</ul><div class="notice">Le visuel d’accueil rassemble les 26 thématiques du rapport en six groupes pour faciliter leur exploration.</div>`)}catch(e){openDialog(heading('RECHERCHE','Nos spécialités')+'<p>Consultez les domaines de recherche dans la rubrique Recherche.</p>')}}));
-})();
