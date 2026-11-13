@@ -1,0 +1,1160 @@
+[
+  {
+    "name": "Hadri Habiba",
+    "title": "Contribution a la sécurité des réseaux véhiculaires : Etude et détection des attaques Sybil",
+    "year": 2026,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Lafhel Majda",
+    "title": "Movie Genre Classification and Similarity Analysis Using Complex Networks and Graph Deep Learning",
+    "year": 2026,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Bendahmane Nada",
+    "title": "Détection des acteurs influents dans les réseaux sociaux",
+    "year": 2026,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Ange Gabriel Belinga",
+    "title": "Knowledge Distillation for Artificial Intelligence-Based Urban Sprawl Prediction",
+    "year": 2026,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Laazoufi Abdelouahed",
+    "title": "Évaluation de la qualité des nuages de points 3D : Méthodes hybrides d’apprentissage profond basées sur des approches perceptuelles et structurelles",
+    "year": 2026,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Bouzaidi Tiali Amine",
+    "title": "Étude et Développement d’un Réseau Véhiculaire Hybride pour la Perception Augmentée des Véhicules Autonomes",
+    "year": 2026,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Bourbia Salima",
+    "title": "Deep Learning for 3D Point Cloud Quality Assessment : From Projections to PointBased Methods",
+    "year": 2026,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Sadiki Siham",
+    "title": "Artificial intelligence for mobility modeling and optimizing trajectory planning using deep learning and adaptive clustering for autonomous systems",
+    "year": 2025,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Ait El Haj Youssef",
+    "title": "L’élaboration et caractérisation physicochimique de nanomatériaux à base de ferrites spinelles dopés, en vue de leur utilisation dans des applications de nanotechnologie",
+    "year": 2025,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Ibniaich Mohamed",
+    "title": "Étude de l’effet du dopage par Hf4+ et La3+ sur les propriétés structurales, morphologiques et magnétiques des nanoparticules de ferrite de cobalt (CoFe2O4) et de ferrite Co–Mg en vue d’applications industrielles",
+    "year": 2025,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Bouzid Hamza",
+    "title": "Generative AI for Modeling Spatiotemporal Dynamics in 2D/3D Human Emotions and Actions : Analysis and Synthesis",
+    "year": 2024,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Qbouche Khalid",
+    "title": "Modélisation et simulation de la mobilité quotidienne en milieu urbain à l’aide des systèmes multi-agents, des réseaux bayésiens et de l’apprentissage automatique",
+    "year": 2024,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Sabri Mohammed",
+    "title": "Réseaux Complexe et intelligence artificielle",
+    "year": 2024,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Benabdllah Fatima-zahra",
+    "title": "Machine and Deep Learning-based Approaches for Autism Spectrum Discover Identification",
+    "year": 2023,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Belmajdoub Hanae",
+    "title": "Artificial Intelligence Techniques for Automatic Segmentation and Characterization of the Coastal Upwelling System",
+    "year": 2023,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Meddad Majdouline",
+    "title": "Deep learning pour l’identification faciale : contributions à l’amélioration de la fiabilité et l’étendue de l’utilisation",
+    "year": 2023,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Aboutaiba Ibrahim",
+    "title": "Conception automatique des métaheuristiques parallèles",
+    "year": 2023,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Amghar Souad",
+    "title": "Contributions à l’intégration des données volumineuses dans le contexte de big data",
+    "year": 2023,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Mafamane Rachid",
+    "title": "Protocole anti-collision pour la couche MAC dans les réseaux de capteurs-RFID",
+    "year": 2023,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Nacer Yassine",
+    "title": "Enhanced Deep Neural Networks for Early Diagnosis of Knee Osteoarthritis",
+    "year": 2023,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Belaiche Yassine",
+    "title": "Préparation et caractérisation des nanoparticules de ferrites pour applications dans les antennes miniatures",
+    "year": 2022,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Al Saidi Ibtissam",
+    "title": "Machine Learning appliquée à l’analyse de données texturées en se basant sur les motifs binaires locaux",
+    "year": 2022,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Benlakhdar Said",
+    "title": "Modélisation statistique par modèles hiérarchiques et mélanges de distributions mathématiques",
+    "year": 2022,
+    "type": "Doctorat"
+  },
+  {
+    "name": "El Mettiti Abderrahmane",
+    "title": "Contributions à l’optimisation des ressources spectrales dans la sixième génération",
+    "year": 2022,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Touijer Bothaina",
+    "title": "Analyse formelle des protocoles de communications des réseaux de capteurs sans fils corporels",
+    "year": 2022,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Ayoub Jibouni",
+    "title": "Link prediction using local structures, machine learning classifiers and node centralities in large scale complex Networks",
+    "year": 2022,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Fatima-Zahra El Biach",
+    "title": "Data science : Deep learning for multipurpose applications",
+    "year": 2022,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Zineb EL Abidi",
+    "title": "Fusing multimodal satellite information for automatic detecting and studying coastal upwelling system",
+    "year": 2022,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Khaoula Karroum",
+    "title": "Algorithmes d’optimisation pour la surveillance et l’estimation de la pollution de l’air",
+    "year": 2021,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Said Iazzi",
+    "title": "L’analyse morphologique des mots arabes à base des schèmes de surface et de graphes",
+    "year": 2021,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Marouane Nazih",
+    "title": "Les méthodes d’optimisation proximal pour la décomposition canonique polyadique : implémentations algorithmiques et applications au traitement de signaux",
+    "year": 2021,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Khadija El Gajoui",
+    "title": "La reconnaissance optique des caractères : cas de la langue amazighe",
+    "year": 2021,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Abderrazak Iazzi",
+    "title": "Contribution à la détection de chute pour les personnes âgées par vidéosurveillance intelligente : l’analyse de la posture et de l’activité humaine",
+    "year": 2021,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Kaoutar Farhane",
+    "title": "Conception et optimisation des formes d’ondes pour les radars : simulations et application aux radars d’aide à la conduite automobile",
+    "year": 2021,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Soufiane Faieq",
+    "title": "AS3 : Une méthode de conception des systèmes adaptatifs basés sur les services pour les environnements intelligents",
+    "year": 2021,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Oussama Zeglazi",
+    "title": "Mise en correspondance stéréoscopique pour les systèmes de transport intelligents",
+    "year": 2021,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Mehdi Srifi",
+    "title": "A content-based recommender system : Application in the context of Arabic language",
+    "year": 2021,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Anisse Khald",
+    "title": "Détection et suivi d’objet dans une séquence d’images omnidirectionnelles",
+    "year": 2021,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Ayoub Lahmidi",
+    "title": "Protection des systèmes de vérification biométrique : contributions à la protection des modèles d’empreintes digitales",
+    "year": 2021,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Zineb Lamghari",
+    "title": "Business process improvement using process mining techniques",
+    "year": 2021,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Adil Aznag",
+    "title": "Étude comparative de la structure anatomique du bois de certaines essences forestières naturelles du Rif et du Moyen Atlas et optimisation de la méthode de sciage de la loupe de thuya",
+    "year": 2021,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Bahae Abidi",
+    "title": "Distribution de traitement dans les réseaux de capteurs sans fil",
+    "year": 2021,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Naima Bousnina",
+    "title": "Biometric authentication systems’ security : Robustness against template database and spoofing attacks",
+    "year": 2021,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Naima Otberdout",
+    "title": "Deep manifold-valued representations for dynamic facial expression analysis and synthesis",
+    "year": 2021,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Omar El Midaoui",
+    "title": "Reformulation sémantique des requêtes pour la recherche d’informations géographiques sur le Web : usage de taxonomies, de l’analyse sémantique latente et des règles d’associations générées dans un contexte Big Data",
+    "year": 2021,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Ahmed Mejdoubi",
+    "title": "Systèmes de transport intelligents coopératifs : contribution aux problèmes de gestion du trafic routier",
+    "year": 2021,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Ibtissame Bouhassoune",
+    "title": "La technologie UHF RFID pour des applications biomédicales : conception des tags et optimisation par des algorithmes métaheuristiques",
+    "year": 2021,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Jalil Elhassouni",
+    "title": "Towards ontology-enhanced knowledgebased systems using ontology design patterns : application in credit risk management",
+    "year": 2021,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Safaa Azzakhnini",
+    "title": "Approches basées sur la fusion multimodale pour les systèmes multi-capteurs : de l’amélioration de la performance vers les préoccupations éthiques",
+    "year": 2020,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Btissam Zerhari",
+    "title": "Contributions au prétraitement de données : élimination du bruit de classe et réduction de dimension",
+    "year": 2020,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Khawla Asmi",
+    "title": "La détection des communautés dans les réseaux sociaux",
+    "year": 2020,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Fouad Yakoubi",
+    "title": "Effective methods for evaluating the complexity of compound graphs",
+    "year": 2020,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Noussaima El Khattabi",
+    "title": "Étude de la complexité de quelques graphes planaires : graphes symétriques",
+    "year": 2020,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Ilyass Abouelaziz",
+    "title": "Évaluation sans référence de la qualité des maillages 3D : exploitation de l’apprentissage profond et de la saillance visuelle",
+    "year": 2020,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Mehdi El Krari",
+    "title": "Adaptation de métaheuristiques pour résoudre des problèmes d’optimisation combinatoire liés aux transports",
+    "year": 2019,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Abdessamad Tafraouti",
+    "title": "Analyse fractale des images X-ray de l’os trabéculaire pour le diagnostic de l’ostéoporose",
+    "year": 2019,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Nisrine Ibadah",
+    "title": "Approches intelligentes pour une modélisation réaliste de la mobilité dans des réseaux mobiles sans fil",
+    "year": 2019,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Elarbi El Alaouy",
+    "title": "Contribution à la conception d’un système informatique d’aide à la décision centré sur une approche d’alliance SMA et AC : application à la simulation de la mobilité résidentielle",
+    "year": 2019,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Nabila Zrira",
+    "title": "Contribution to the development of algorithms based on deep learning architectures for mobile robotics applications",
+    "year": 2019,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Imad Iala",
+    "title": "Contributions aux protocoles MAC déterministes dédiés aux réseaux de capteurs sans fil",
+    "year": 2019,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Badr Ait Hammou",
+    "title": "Distributed intelligent systems based on scalable machine learning and deep learning techniques for Big Data analytics : application to recommendation systems and real-time social media analysis",
+    "year": 2019,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Meryam Zeryouh",
+    "title": "Efficient computational methods for two distance-based topological indices and applications on large networks",
+    "year": 2019,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Marwan Lakhal",
+    "title": "Hydrogen storage properties of magnesium hydride MgH2 by ab initio calculations and kinetic Monte Carlo simulations (KMC)",
+    "year": 2019,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Meryem Talha",
+    "title": "Analyse syntactico-sémantique automatique de la langue amazighe",
+    "year": 2019,
+    "type": "Doctorat"
+  },
+  {
+    "name": "El Aouni Anass",
+    "title": "Lagrangian coherent structures and physical processes of coastal upwelling",
+    "year": 2019,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Raihana Mokhlissi",
+    "title": "The analysis of the structural properties and the spanning trees entropy of complex networks",
+    "year": 2019,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Abdessamad Tafraouti",
+    "title": "Analyse fractale des images X-ray de l’os trabéculaire pour le diagnostic de l’ostéoporose",
+    "year": 2018,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Mourad Ouadou",
+    "title": "Amélioration des performances dans les réseaux de capteurs sans fil : du contrôle de topologie à l’intégration du RFID",
+    "year": 2018,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Safae Cherdal",
+    "title": "Contribution à la modélisation et à l’analyse du comportement des systèmes complexes : cas d’un système biologique",
+    "year": 2018,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Asmae El Ghazi",
+    "title": "Contribution au routage dans les réseaux de capteurs sans fil en utilisant les métaheuristiques",
+    "year": 2018,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Rabii El Ghorfi",
+    "title": "Modélisation et évaluation de la gouvernance des systèmes d’information via la théorie des options réelles : mise en place d’une plateforme de simulation des investissements stratégiques",
+    "year": 2018,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Hajar Lazar",
+    "title": "Modélisation et simulation de la mobilité urbaine du trafic routier",
+    "year": 2018,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Achraf Lyazidi",
+    "title": "ONDAR et DAR-DSL : une ontologie et un DSL pour la modélisation des maisons intelligentes",
+    "year": 2018,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Asmae Ait Mansour",
+    "title": "L’optimisation contextuelle du handover dans les réseaux sans fil hétérogènes : techniques de supervision et théorie des jeux",
+    "year": 2018,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Meryam El Mouhtadi",
+    "title": "Recherche et indexation de l’image biométrique par contenu multimédia : application à l’empreinte digitale",
+    "year": 2018,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Salwa Lagdali",
+    "title": "Statistiques d’ordre supérieur pour l’analyse de la texture sous les contraintes du bruit et de non-Gaussianité",
+    "year": 2018,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Soufiana Mekouar",
+    "title": "Analysis and modeling of shared contents and their impact on users behavior in online social networks",
+    "year": 2018,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Khalid Fakhar",
+    "title": "Contributions au problème de fusion de scores dans les systèmes de reconnaissance multi-biométriques",
+    "year": 2017,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Hamza Kamal Idrissi",
+    "title": "Contributions à la sécurité des réseaux informatiques à l’aide des IDS comportementaux, des politiques de pare-feu ainsi que des algorithmes de stockage et d’équilibrage de charge",
+    "year": 2017,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Youssef Bendraou",
+    "title": "Détection des changements de plans et extraction d’images représentatives dans une séquence vidéo",
+    "year": 2017,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Sidi Ahmed Ezzahidi",
+    "title": "Incentive mechanisms for self-organized delay tolerant networks : An algorithmic game theory perspective",
+    "year": 2017,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Maroua Drissi",
+    "title": "A multi-criteria real-time network selection framework in heterogeneous wireless environments for 5G systems : application to mobile and vehicular heterogeneous networks",
+    "year": 2017,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Said Ousguine",
+    "title": "Reconstruction des images à haute résolution",
+    "year": 2017,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Mounir Omari",
+    "title": "Vers une mesure perceptuelle pour l’évaluation de la qualité des images couleur",
+    "year": 2017,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Abdelali Saidi",
+    "title": "Un système d’agents mobiles pour la détection des attaques DoS/DDoS dans le Cloud Computing",
+    "year": 2016,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Btihal El Ghali",
+    "title": "Modèles contextuels pour la recommandation et l’expansion de requêtes en recherche d’information",
+    "year": 2016,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Brahim Elmaroud",
+    "title": "Analyse des performances et amélioration des systèmes FBMC dans les transmissions sans fil non linéaires et asynchrones",
+    "year": 2016,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Imane Dbibih",
+    "title": "Contribution à l’optimisation de la couche MAC dans les réseaux de capteurs sans fil",
+    "year": 2016,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Brahim Akbil",
+    "title": "Optimisation des performances des techniques d’accès multiple par l’utilisation des systèmes chaotiques et par regroupement des utilisateurs",
+    "year": 2016,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Hamd Ait Abdelali",
+    "title": "Suivi d’objet, génération de trajectoires et détection d’objet dans une séquence vidéo",
+    "year": 2016,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Meryem Benyoussef",
+    "title": "Tatouage des images médicales basé sur la cryptographie visuelle",
+    "year": 2016,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Sahbani Hajar",
+    "title": "Titre non communiqué",
+    "year": 2016,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Mohamed Nabil SAIDI",
+    "title": "Classification & Fusion de l’Information : Application au traitement d’image et aux systèmes biométriques",
+    "year": 2015,
+    "type": "HDR"
+  },
+  {
+    "name": "Noureddine Lakouari",
+    "title": "Étude du comportement du trafic routier dans les carrefours et les routes à accès réglementé : modèles d’automates cellulaires",
+    "year": 2015,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Ali Jorio",
+    "title": "Clustering basé sur la classification spectrale pour l’optimisation d’énergie dans les réseaux de capteurs sans fil homogènes",
+    "year": 2015,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Noureddine Assad",
+    "title": "Optimisation du déploiement des réseaux de capteurs sans fil : couverture de la zone de surveillance et connectivité du réseau dans une application de détection d’intrusion",
+    "year": 2015,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Alaaeddine Yousfi",
+    "title": "Smart business process improvement for process-aware information systems",
+    "year": 2015,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Hicham Badri",
+    "title": "Méthodes parcimonieuses et invariantes d’échelle en traitement d’images",
+    "year": 2015,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Saı̈d Ouatik El Alaou",
+    "title": "Approches statistiques et sémantiques pour l’accès à l’information dans les collections textuelles en langue arabe",
+    "year": 2015,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Maryam Lafkih",
+    "title": "Analyse de la sécurité des cryptosystèmes biométriques",
+    "year": 2015,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Ismail Bennis",
+    "title": "Contribution aux protocoles de routage dans les réseaux de capteurs sans fil : application à la supervision agricole",
+    "year": 2015,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Ayoub Tamim",
+    "title": "Segmentation et classification des images satellitaires : application à la détection des zones d’upwelling côtier marocain et mise en place d’un logiciel de suivi spatiotemporel",
+    "year": 2015,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Hasnaa El Khattabi",
+    "title": "Mesure de la qualité de la vidéo par les réseaux de neurones",
+    "year": 2015,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Aziz Ouaarab",
+    "title": "Résolution de problèmes d’optimisation combinatoire par des métaheuristiques inspirées de la nature : recherche du coucou via les vols de Lévy",
+    "year": 2015,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Othmane Alaoui Fdili",
+    "title": "Optimisation multicritères de la qualité de service dans les réseaux de capteurs multimédia sans fil",
+    "year": 2015,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Tariq Lajouad",
+    "title": "Suivi d’objet mobile dans les séquences vidéo moyennant les métaheuristiques",
+    "year": 2015,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Nawal Alioua",
+    "title": "Extraction et analyse des caractéristiques faciales : application à l’hypovigilance chez le conducteur",
+    "year": 2015,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Rkia Aouinatou",
+    "title": "Le chiffrement basé sur l’identité (IBE) : proposition et mise en œuvre",
+    "year": 2015,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Awatif Rouijel",
+    "title": "Méthodes algébriques multilinéaires pour la séparation aveugle de sources : algorithmes, simulations et application aux systèmes de communication radio mobile",
+    "year": 2015,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Khalid MINAOUI",
+    "title": "Contributions aux traitements du signal et d’image : Méthodes algébriques multilinéaires pour la séparation aveugle de sources, traitement du signal Radar, segmentation de l’upwelling en utilisant les images TSM",
+    "year": 2014,
+    "type": "HDR"
+  },
+  {
+    "name": "Ouadoudi ZYTOUNE",
+    "title": "Contribution à la qualité de service dans les réseaux sans fil",
+    "year": 2014,
+    "type": "HDR"
+  },
+  {
+    "name": "Rajaa SAIDI",
+    "title": "Contribution à l’ingénierie des processus métiers dans les systèmes d’information",
+    "year": 2014,
+    "type": "HDR"
+  },
+  {
+    "name": "Rachid SAADANE",
+    "title": "Canaux large bande : Application aux réseaux de capteurs sans fil et réseau mobile",
+    "year": 2014,
+    "type": "HDR"
+  },
+  {
+    "name": "Sanaa EL FKIHI",
+    "title": "Traitement des Données Multimédias et amélioration des performances dans les réseaux de capteurs sans fil",
+    "year": 2014,
+    "type": "HDR"
+  },
+  {
+    "name": "Mohamed EL HAZITI",
+    "title": "Protection des données : du watermarking aux systèmes biométriques",
+    "year": 2014,
+    "type": "HDR"
+  },
+  {
+    "name": "Anouar Darif",
+    "title": "Contributions à l’amélioration des performances des réseaux de capteurs sans fil à base d’IR-UWB",
+    "year": 2014,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Fatima Zahra Benamar",
+    "title": "Estimation du temps à collision en vision catadioptrique",
+    "year": 2014,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Samir Bara",
+    "title": "Analyse et segmentation des images médicales : application aux images IRM cérébrales en vue de la détection des tumeurs",
+    "year": 2014,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Chouaib Moujahdi",
+    "title": "Protection des systèmes de sécurité biométriques : contributions à la protection des modèles biométriques",
+    "year": 2014,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Zakaria Mohammadi",
+    "title": "Modélisation du canal ultra-large bande et simulation des performances dans les réseaux corporels sans fil",
+    "year": 2014,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Dounia Lotfi",
+    "title": "Évaluation du nombre d’arbres couvrants d’un réseau planaire",
+    "year": 2014,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Mohamed Essalih",
+    "title": "Étude des indices topologiques, leurs applications en QSAR/QSPR et leurs corrélations aux représentations moléculaires Plerograph et Kenograph",
+    "year": 2013,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Said El Abdellaoui",
+    "title": "Étude et analyse de la performance du système coopératif MIMO-Virtuel pour les réseaux de capteurs sans fil",
+    "year": 2013,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Yann Ben Maı̈ssa",
+    "title": "Contribution à la modélisation et à la vérification de réseaux de capteurs sans fil",
+    "year": 2013,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Ahmed Drissi El Maliani",
+    "title": "Modélisation stochastique des images texturées",
+    "year": 2013,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Fadoua Bahja",
+    "title": "Détection du fondamental de la parole en temps réel : application aux voix pathologiques",
+    "year": 2013,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Asmâa Elouerkhaoui",
+    "title": "Conception et mise en œuvre de métamoteurs de recherche dédiés",
+    "year": 2013,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Abdelkaher Ait Abdelouahad",
+    "title": "Mesures de qualité avec référence réduite basées sur les statistiques des scènes naturelles",
+    "year": 2013,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Mohammed el HASSOUNI",
+    "title": "Modélisation statistique des images et des objets 3D : Contributions en reconnaissance, qualité et débruitage",
+    "year": 2012,
+    "type": "HDR"
+  },
+  {
+    "name": "Ayoub Ait Lahcen",
+    "title": "Développement d’applications à base de composants avec une approche centrée sur les données dans une architecture orientée services et pair-à-pair : spécification, analyse et intergiciel",
+    "year": 2012,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Nawal El Hamdouni",
+    "title": "Technique hybride EMD/SAS pour le tatouage audio : une approche potentielle pour augmenter le débit de transmission",
+    "year": 2012,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Reda Jourani",
+    "title": "Reconnaissance automatique du locuteur par des GMM à grande marge",
+    "year": 2012,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Hind Anoual",
+    "title": "Détection et localisation de texte dans les images de scènes naturelles : application à la détection des plaques d’immatriculation marocaines",
+    "year": 2012,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Hajar Bouirouga",
+    "title": "Reconnaissance des scènes vidéo pour adultes",
+    "year": 2012,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Lahoucine Ballihi",
+    "title": "Biométrie faciale 3D par apprentissage des caractéristiques géométriques : application à la reconnaissance des visages et à la classification du genre",
+    "year": 2012,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Ibrahim Guelzim",
+    "title": "Contributions aux traitements d’images perspectives et omnidirectionnelles par des outils statistiques",
+    "year": 2012,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Ali El Akadi",
+    "title": "Contribution à la sélection de variables pertinentes en classification supervisée : application à la sélection des gènes pour les puces à ADN et des caractéristiques faciales",
+    "year": 2012,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Miryem Hrarti",
+    "title": "Optimisation du contrôle de débit de H.264/AVC basée sur une nouvelle modélisation débit–quantification et une allocation sélective des débits",
+    "year": 2012,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Abdeljalil ELOUARDIGHI",
+    "title": "Sélection de variables pertinentes dans un processus d’extraction de connaissance à partir de grandes bases de données",
+    "year": 2011,
+    "type": "HDR"
+  },
+  {
+    "name": "Miryem Hrarti",
+    "title": "Optimisation du contrôle de débit de H.264/AVC basée sur une nouvelle modélisation débit–quantification et une allocation sélective des débits",
+    "year": 2011,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Abdenaceur Boudlal",
+    "title": "Modélisation de séquences vidéo par mélange de lois gaussiennes : application à l’estimation du mouvement",
+    "year": 2011,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Ali Radi",
+    "title": "Conception d’un nouveau système de prévention d’intrusion basé sur une politique de sécurité à trois niveaux",
+    "year": 2011,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Ali Kartit",
+    "title": "Une nouvelle approche de détection d’intrusions et étude des problèmes liés au déploiement de politiques de sécurité dans les réseaux informatiques",
+    "year": 2011,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Hamid Bennis",
+    "title": "Paper microstructure characterization by image analysis",
+    "year": 2011,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Amir Moilim",
+    "title": "Techniques avancées du traitement de signaux multi-composantes : application à la séparation des ondes sismiques",
+    "year": 2011,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Hassan El Maia",
+    "title": "Apport de la combinaison couleur-texture en classification des images de télédétection : application à la cartographie forestière",
+    "year": 2011,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Abderrahim EL QADI",
+    "title": "Recherche d’Information et optimisation des requêtes dans les entrepôts de données",
+    "year": 2010,
+    "type": "HDR"
+  },
+  {
+    "name": "Benayad NSIRI",
+    "title": "Contributions au développement des algorithmes avancés pour les systèmes de télécommunication",
+    "year": 2010,
+    "type": "HDR"
+  },
+  {
+    "name": "Mohammed RZIZA",
+    "title": "Méthodes de classification : application à la détection, reconnaissance du visage et à l’indexation de documents audio",
+    "year": 2010,
+    "type": "HDR"
+  },
+  {
+    "name": "Samira Mabtoul",
+    "title": "Tatouage d’images par ondelettes complexes : application à la protection des droits d’auteur et à l’intégrité des images",
+    "year": 2010,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Amina Radgui",
+    "title": "Contributions à l’estimation du flot optique en vision omnidirectionnelle",
+    "year": 2010,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Mohammed Nabil Saidi",
+    "title": "Reconnaissance de formes et d’objets en environnement incertain : application à la reconnaissance de cibles radar",
+    "year": 2010,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Khalid Ait Sghir",
+    "title": "Contribution de la cyclostationnarité et de l’identification aveugle au diagnostic des outils de coupe",
+    "year": 2010,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Brahim Elbhiri",
+    "title": "Distributed average consensus algorithm and hierarchical clustering protocols for wireless sensor networks",
+    "year": 2010,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Hamadi Ould Abdellahi",
+    "title": "Égalisation des canaux radio-mobiles et étude de la technique d’accès multiple IDMA (Interleave Division Multiple Access)",
+    "year": 2010,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Lamia Benameur",
+    "title": "Contribution à l’optimisation complexe par des techniques de swarm intelligence",
+    "year": 2010,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Elhoussaine Ziyati",
+    "title": "Optimisation de requêtes OLAP en entrepôt de données : approche basée sur la fragmentation génétique",
+    "year": 2010,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Ouadoudi Zytoune",
+    "title": "Energy efficiency routing protocols for wireless sensor networks : contribution to lifetime maximisation",
+    "year": 2010,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Khalid Minaoui",
+    "title": "Séquences binaires et traitements du signal pour les radars",
+    "year": 2010,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Mounir Ait Kerroum",
+    "title": "Apport de la théorie de l’information dans la sélection des paramètres de texture pour la classification thématique des images de télédétection",
+    "year": 2010,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Abdeslam Jakimi",
+    "title": "Apport de la théorie de l’information dans la sélection des paramètres de texture pour la classification thématique des images de télédétection",
+    "year": 2009,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Majdoulayne Hanifi",
+    "title": "Extraction de caractéristiques de texture pour la classification d’images satellites",
+    "year": 2009,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Rajaa Saidi",
+    "title": "Conception et usage des composants métier processus pour les systèmes d’information",
+    "year": 2009,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Imane Daoudi",
+    "title": "Recherche par similarité dans les bases de données multimédia : application à la recherche par le contenu d’images",
+    "year": 2009,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Soufiane Idbraim",
+    "title": "Méthodes d’extraction de l’information spatiale et de classification en imagerie de télédétection",
+    "year": 2009,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Mohamed El Aroussi",
+    "title": "Information fusion towards a robust face recognition system",
+    "year": 2009,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Asmaa Amehraye",
+    "title": "Débruitage de la parole et ses applications",
+    "year": 2009,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Aouatif Amine",
+    "title": "Feature extraction and selection for dimensionality reduction in pattern recognition and their application in face recognition",
+    "year": 2009,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Sanaa Ghouzali",
+    "title": "Generalized Gaussian model for blockDCT based skin detection",
+    "year": 2009,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Abdelilah Jilbab",
+    "title": "Filtrage de sites illicites sur Internet : contribution à la reconnaissance du type d’images basée sur le principe du maximum d’entropie",
+    "year": 2009,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Nourddine Enneya",
+    "title": "La mobilité au service du routage ad hoc",
+    "year": 2009,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Moulay Ahmed Faqihi",
+    "title": "Étude et optimisation des techniques MCCDMA pour les futures générations de transmission radio-mobiles",
+    "year": 2009,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Atman Jbari",
+    "title": "Séparation aveugle de sources par contrastes à références et analyse du contenu temps–échelle",
+    "year": 2009,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Sanaa El Fkihi",
+    "title": "Modèles probabilistes indexés par les arbres : application à la détection de la peau dans les images couleur",
+    "year": 2008,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Mounia Mikram",
+    "title": "Suivi d’objets dans une séquence d’images par modèle d’apparence : conception et évaluation",
+    "year": 2008,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Tariq Zahratahdi",
+    "title": "Algorithmes pour la qualité de service dans les réseaux IP",
+    "year": 2008,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Najlae Idrissi",
+    "title": "La navigation dans les bases d’images : prise en compte des attributs de texture",
+    "year": 2008,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Siham Boulaknadel",
+    "title": "TAL et RI en langue arabe dans un domaine de spécialité : apport des connaissances morphologiques et syntaxiques pour l’indexation",
+    "year": 2008,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Manal Taoufiki",
+    "title": "Contrastes à référence pour la séparation de sources gaussiennes et non gaussiennes",
+    "year": 2008,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Mohamed Ould Djibril",
+    "title": "Contributions au problème de recherche et indexation des arabesques",
+    "year": 2008,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Khalid Sabri",
+    "title": "Apport de l’hypothèse de cyclostationnarité dans le cadre de séparation de mélanges convolutifs : application aux signaux mécaniques et biomécaniques",
+    "year": 2008,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Hicham Ghennioui",
+    "title": "Séparation aveugle de mélanges linéaires convolutifs de sources corrélées",
+    "year": 2008,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Jamal Eddine Rougui",
+    "title": "Indexation de documents audio : cas des grands volumes de données",
+    "year": 2008,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Leila Essannouni",
+    "title": "Mise en correspondance d’images et suivi de visages",
+    "year": 2008,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Moulay Youssef Hadi",
+    "title": "OLVISu : un système d’indexation et de génération des résumés vidéo en ligne",
+    "year": 2008,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Fadoua Ataa Allah",
+    "title": "Information retrieval : applications to English and Arabic documents",
+    "year": 2008,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Brahim Bouda",
+    "title": "Contribution au développement d’algorithmes pour la détection des primitives visuelles (points et contours) dans l’image : application à l’estimation des paramètres du mouvement",
+    "year": 2008,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Ahmed KADA",
+    "title": "Contribution aux techniques et algorithmes évolutifs de traitement de l’information et de communication : application en télécommunications, sécurité et réseaux",
+    "year": 2007,
+    "type": "HDR"
+  },
+  {
+    "name": "Hicham Laanaya",
+    "title": "Classification en environnement incertain : application à la caractérisation de sédiments",
+    "year": 2007,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Youssef Fakhri",
+    "title": "Assignation de ressources radio-mobiles pour un système wireless OFDM : contribution basée sur la théorie de l’information",
+    "year": 2007,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Fedwa Essannouni",
+    "title": "Estimation de mouvement robuste et de faible complexité dans les séquences vidéo",
+    "year": 2007,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Rachid Saadane",
+    "title": "Caractérisation et modélisation d’un canal ultra-large bande indoor basée sur la théorie de l’information",
+    "year": 2007,
+    "type": "Doctorat"
+  },
+  {
+    "name": "Elhassane IBNELHAJ",
+    "title": "Traitement et analyse de la vidéo : restauration, reconnaissance de visage et protection par watermarking",
+    "year": 2006,
+    "type": "HDR"
+  }
+]

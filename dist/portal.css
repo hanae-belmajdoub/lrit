@@ -1,0 +1,319 @@
+
+/* Structure du portail scientifique */
+:root{--portal-blue:#163f62;--portal-accent:#147da3}
+html{scroll-padding-top:30px}
+body{font-size:15px;background:#fff}
+.institution{padding-top:12px;padding-bottom:12px}
+.institution-logos img{height:58px;width:auto;max-width:160px;object-fit:contain}
+.header{height:85px;min-height:85px;background:#fff;position:relative}
+.header .brand img{height:48px;width:48px;object-fit:contain}
+.header .brand strong{font-size:30px}
+.header .brand small{display:none}
+.header nav{font-size:13px;gap:25px}
+.header .nav-dropdown a{font-size:13px;padding:11px}
+.header nav>a,.nav-group summary{padding:12px 0;white-space:nowrap}
+.header .language-link{padding:7px 9px}
+h1,h2,h3{font-family:Arial,Helvetica,sans-serif;letter-spacing:0;color:var(--ink)}
+h2{font-size:27px;line-height:1.3;font-weight:600}
+h3{font-size:19px;font-weight:600}
+h2 em,h1 em{font-family:inherit;font-style:normal;color:inherit;font-weight:inherit}
+.section-heading{display:flex;align-items:center;justify-content:space-between;gap:25px;margin-bottom:25px}
+.section-heading p{font-size:14px}
+.lab-intro{padding-top:35px;padding-bottom:30px;border-bottom:1px solid var(--line)}
+.institution-label{font-size:12px;color:var(--teal);margin:0 0 15px}
+.lab-intro h1{font-size:clamp(27px,3vw,39px);line-height:1.25;font-weight:600;letter-spacing:-.6px;margin:0 0 15px;max-width:950px}
+.lab-intro>p:last-child{font-size:15px;max-width:800px;margin:0;color:var(--muted)}
+.portal-section{padding-top:35px;padding-bottom:35px}
+.spotlight-grid{display:grid;grid-template-columns:1fr 1fr;gap:24px}
+.spotlight-card{padding:26px;border-left:4px solid var(--portal-accent);background:#eef5fa;display:flex;flex-direction:column;align-items:start;gap:12px}
+.spotlight-card:hover{background:#e1edf7}
+.spotlight-card small{font-size:11px;letter-spacing:.6px;color:var(--portal-blue)}
+.spotlight-card h3{margin:0;font-size:23px;line-height:1.3}
+.spotlight-card p{font-size:14px;line-height:1.7;margin:0}
+.spotlight-card>span{font-size:12px;color:var(--portal-blue);margin-top:auto}
+.news-list{display:grid;grid-template-columns:1fr 1fr;gap:26px}
+.news-brief{display:grid;grid-template-columns:130px 1fr 15px;gap:20px;padding:0 0 22px;border-bottom:1px solid var(--line)}
+.news-brief img{width:130px;height:120px;object-fit:contain;background:#f2f5f8}
+.news-brief small{font-size:11px;color:var(--muted)}
+.news-brief h3{font-size:17px;line-height:1.45;margin:9px 0}
+.news-brief p{font-size:13px;line-height:1.6;margin:0}
+.research.section{padding:35px 0;background:#f3f6f8}
+.research-grid{background:transparent;border:0;gap:15px;grid-template-columns:repeat(3,minmax(0,1fr))}
+.research-card{min-height:175px;padding:22px;background:#fff;border:1px solid #d4e0e8}
+.research-card:hover{background:#e6f1f8}
+.research-card .axis-symbol,.research-card .card-num,.research-card .card-bottom>span{display:none}
+.research-card h3{font-size:18px;line-height:1.4;margin:0 0 12px;letter-spacing:0}
+.research-card h3 br{display:none}
+.research-card p{font-size:13px;line-height:1.6;max-width:none;margin:0 0 12px}
+.research-card .card-bottom{align-self:end}
+.directory-links{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}
+.directory-links a{padding:22px;border:1px solid var(--line);display:flex;flex-direction:column;gap:12px}
+.directory-links a:hover{border-color:var(--portal-accent)}
+.directory-links strong{font-size:19px;font-weight:600}
+.directory-links span{font-size:13px;color:var(--muted)}
+.agenda-section{background:#f4f7f9;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.agenda-grid{display:grid;grid-template-columns:1fr 1fr;gap:45px}
+.agenda-grid h3{font-size:19px;margin:0 0 20px}
+.agenda-grid ul{list-style:none;padding:0;margin:0 0 20px}
+.agenda-grid li{padding:14px 0;border-top:1px solid #d3dfe5}
+.agenda-grid li a{display:flex;flex-direction:column;gap:6px}
+.agenda-grid time{font-size:12px;color:var(--portal-accent)}
+.agenda-grid strong{font-size:14px;line-height:1.5;font-weight:600}
+.agenda-grid li span{font-size:12px;line-height:1.6;color:var(--muted)}
+.portal-video{display:grid;grid-template-columns:.65fr 1fr;align-items:center;gap:45px}
+.portal-video h2{margin:0 0 20px}
+.portal-video .video-stage{margin:0;width:100%;aspect-ratio:16/9;height:auto;min-height:0}
+.site-footer{display:block;padding:35px 0;background:#122e43;color:#fff;font-size:13px}
+.footer-content{display:grid;grid-template-columns:1.5fr 1fr .8fr;gap:35px;align-items:start;padding-top:0;padding-bottom:0}
+.site-footer h2{color:#fff;font-size:18px;letter-spacing:0;margin:0 0 18px}
+.site-footer p{font-size:13px;line-height:1.8;color:#d8e5ef;margin:0 0 15px}
+.site-footer a{color:#d8e5ef;display:block;margin:10px 0;line-height:1.6;font-size:12px}
+.site-footer a:hover{text-decoration:underline}
+.footer-fsr{width:160px;height:100px;object-fit:contain;background:#fff;padding:10px;margin-bottom:15px}
+.directory-hero{padding-top:30px;padding-bottom:30px}
+.directory-hero h1,.science-hero h1{font-size:clamp(29px,3.5vw,43px);font-weight:600;letter-spacing:-.6px;line-height:1.2;margin:20px 0 16px}
+.directory-hero>p{font-size:15px;line-height:1.7;max-width:800px}
+.eyebrow{font-size:10px;letter-spacing:1px}
+.directory-section h2{font-size:25px}
+.presentation-content{padding-top:38px;padding-bottom:45px}
+.presentation-content .about-grid{grid-template-columns:.8fr 1.2fr;gap:45px}
+.presentation-content p,.presentation-content .lead{font-size:15px;line-height:1.8}
+.history-directors{margin-top:40px;padding-top:30px}
+.person p{font-size:13px;line-height:1.7;min-height:45px}
+.person h3{font-size:19px}
+.person-info small{font-size:10px}
+.training{padding:40px 0;background:#f3f6f8}
+.training-grid{gap:45px}
+.training-grid>div>p,.training-list p{font-size:14px;line-height:1.8}
+.training-list h3{font-size:21px}
+.training-list small{font-size:10px}
+.training-posters img{height:440px}
+.dialog-content h2{font-size:28px;letter-spacing:0}
+.dialog-content h3{font-size:19px}
+.dialog-content p,.dialog-content li{font-size:14px}
+@media(max-width:1050px){.header nav{top:85px;font-size:15px;gap:10px}.header{height:85px}.header .nav-dropdown{margin-top:0}.header .nav-dropdown a{padding:9px}.header .brand small{display:none}.news-brief{grid-template-columns:95px 1fr 12px;gap:14px}.news-brief img{width:95px;height:105px}}
+@media(max-width:750px){.lab-intro h1 br{display:none}.research-grid{grid-template-columns:1fr 1fr}.news-list{grid-template-columns:1fr}.agenda-grid{grid-template-columns:1fr;gap:30px}.portal-video{grid-template-columns:1fr;gap:20px}.footer-content{grid-template-columns:1fr 1fr}.footer-content>div:first-child{grid-column:1/-1}.presentation-content .about-grid{grid-template-columns:1fr;gap:22px}.spotlight-card h3{font-size:20px}.directory-links span{font-size:12px}}
+@media(max-width:520px){.spotlight-grid,.research-grid,.directory-links{grid-template-columns:1fr}.portal-section{padding-top:28px;padding-bottom:28px}.section-heading{align-items:start;gap:16px}.section-heading h2{font-size:24px}.section-heading .text-link{font-size:11px}.research-card{min-height:140px}.news-brief{grid-template-columns:85px 1fr 10px;gap:12px}.news-brief img{width:85px;height:100px}.news-brief h3{font-size:15px}.news-brief p{font-size:12px}.spotlight-card{padding:22px}.footer-content{grid-template-columns:1fr}.footer-content>div:first-child{grid-column:auto}.footer-fsr{width:140px}.lab-intro{padding-top:25px;padding-bottom:25px}.institution-label{font-size:11px}.site-footer{padding:30px 0}}
+
+.presentation-content h1,.training-grid h1{font-size:34px;font-weight:600;letter-spacing:-.5px;line-height:1.25;margin:0 0 20px}
+@media(max-width:650px){.presentation-content h1,.training-grid h1{font-size:28px}}
+
+/* Annuaire en listes et fiche individuelle commune. */
+.directory-jumps{display:flex;flex-wrap:wrap;gap:12px;margin:22px 0 0}
+.directory-jumps a{padding:10px 14px;border:1px solid #c9dbe7;font-size:13px;color:var(--portal-blue)}
+.directory-jumps a:hover{background:#edf5fa}
+.roster-section{padding-bottom:50px}
+.roster-controls{margin-top:0}
+.roster-group{margin:35px 0 0;scroll-margin-top:25px}
+.roster-group[hidden]{display:none}
+.roster-group h2{font-size:24px;border-bottom:2px solid #b9d1e1;padding-bottom:14px;margin-bottom:0}
+.roster-list{list-style:none;padding:0;margin:0}
+.roster-list li{padding:15px 0;border-bottom:1px solid #e0e7ec;line-height:1.6}
+.roster-list a{color:var(--portal-blue);font-size:15px;text-decoration:underline;text-underline-offset:3px}
+.roster-list strong{font-weight:600}
+.roster-list li>span{display:block;margin-top:4px;font-size:13px;color:var(--muted)}
+.roster-list a:hover,.profile-students a:hover,.profile-identity a:hover{text-decoration-thickness:2px}
+.profile-page{padding-top:30px;padding-bottom:55px;min-height:50vh}
+.profile-heading{display:flex;align-items:center;gap:30px;margin:30px 0 35px;padding-bottom:30px;border-bottom:1px solid var(--line)}
+.profile-heading h1{font-size:clamp(29px,3.5vw,43px);font-weight:600;line-height:1.2;letter-spacing:-.6px;margin:12px 0}
+.profile-heading p{font-size:14px;margin:7px 0;line-height:1.7}
+.profile-heading .profile-category{font-size:12px;color:var(--portal-accent)}
+.profile-heading .profile-grade{font-size:17px}
+.profile-photo{width:140px;height:165px;object-fit:cover;object-position:50% 20%;background:#edf3f8}
+.profile-initials{width:140px;height:165px;display:flex;align-items:center;justify-content:center;background:#edf3f8;color:#315a76;font-size:40px;flex-shrink:0}
+.profile-columns{display:grid;grid-template-columns:300px minmax(0,1fr);gap:45px;align-items:start}
+.profile-identity{padding:25px;background:#f1f6f9;border:1px solid #d9e4ec}
+.profile-identity h2,.profile-content h2{font-size:23px;margin:0 0 20px}
+.profile-identity dl{margin:0 0 25px;font-size:14px;line-height:1.7}
+.profile-identity dt{font-size:11px;text-transform:uppercase;letter-spacing:.4px;color:var(--muted);margin-top:18px}
+.profile-identity dt:first-child{margin-top:0}
+.profile-identity dd{margin:6px 0 0;overflow-wrap:anywhere}
+.profile-identity a{color:var(--portal-blue)}
+.profile-content section{padding-bottom:28px;margin-bottom:28px;border-bottom:1px solid var(--line)}
+.profile-content section:last-child{margin-bottom:0}
+.profile-content p{font-size:15px;line-height:1.85;margin:0 0 18px}
+.profile-content h3{font-size:17px;margin:22px 0 15px}
+.profile-content .button{font-size:12px;line-height:1.6;white-space:normal}
+.profile-topics{display:flex;flex-wrap:wrap;gap:9px;list-style:none;padding:0;margin:0 0 25px}
+.profile-topics li{font-size:12px;padding:7px 10px;background:#edf4f9;color:var(--portal-blue)}
+.profile-scientific-links{display:flex;flex-wrap:wrap;gap:12px}
+.profile-scientific-links a{border:1px solid #c9dbe7;padding:10px 14px;font-size:13px;color:var(--portal-blue)}
+.profile-students{list-style:none;padding:0;margin:0}
+.profile-students li{border-top:1px solid #e0e7ec;padding:12px 0;display:flex;flex-direction:column;gap:4px}
+.profile-students a{font-size:14px;color:var(--portal-blue);text-decoration:underline;text-underline-offset:3px}
+.profile-students span{font-size:12px;color:var(--muted)}
+.profile-publications article{padding:18px 0;border-top:1px solid var(--line)}
+.profile-publications small{color:var(--muted);font-size:12px}
+.profile-publications h4{font-size:16px;line-height:1.6;margin:10px 0;font-weight:600}
+.profile-publications p{font-size:13px;line-height:1.7;margin-bottom:12px}
+.profile-publications a{color:var(--portal-blue);font-size:13px;text-decoration:underline;text-underline-offset:3px}
+
+/* Formation et motivations pour rejoindre le laboratoire. */
+.training-content {
+  padding-bottom: 55px;
+}
+.training-content h2 {
+  font-size: 25px;
+  margin: 0 0 20px;
+}
+.training-content p,
+.training-content li {
+  font-size: 15px;
+  line-height: 1.85;
+}
+.join-introduction,
+.training-summary {
+  max-width: 900px;
+  margin-bottom: 35px;
+}
+.join-introduction p,
+.training-summary p {
+  margin: 0;
+}
+.join-reasons,
+.former-training-grid,
+.training-overview {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px;
+  margin-bottom: 35px;
+}
+.join-reasons article,
+.former-training-grid article,
+.training-overview > a {
+  padding: 28px;
+  border: 1px solid #d4e0e8;
+  background: #f7fafc;
+}
+.reason-number,
+.archive-label,
+.training-overview > a > span {
+  display: block;
+  color: var(--portal-accent);
+  font-size: 12px;
+  letter-spacing: .7px;
+  margin-bottom: 18px;
+}
+.join-reasons h2,
+.former-training-grid h2,
+.training-overview h2 {
+  font-size: 22px;
+  line-height: 1.4;
+}
+.join-reasons p,
+.former-training-grid p {
+  font-size: 14px;
+  margin: 0 0 20px;
+}
+.join-next,
+.institutional-cta {
+  padding: 30px;
+  background: #edf5fa;
+  border-left: 4px solid var(--portal-accent);
+  margin-top: 35px;
+}
+.join-next ol {
+  margin: 0 0 25px;
+  padding-left: 22px;
+}
+.join-next li {
+  padding-left: 7px;
+  margin-bottom: 16px;
+}
+.training-actions {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 18px;
+  margin-top: 25px;
+}
+.training-actions .button {
+  font-size: 13px;
+  line-height: 1.6;
+  white-space: normal;
+}
+.training-block {
+  border-top: 1px solid var(--line);
+  padding-top: 30px;
+  margin-top: 30px;
+}
+.doctoral-topics {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  gap: 10px;
+  padding: 0;
+  margin: 0 0 24px;
+}
+.doctoral-topics li {
+  padding: 9px 13px;
+  background: #edf4f9;
+  font-size: 13px;
+  color: var(--portal-blue);
+}
+.doctoral-stages {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 25px;
+}
+.doctoral-stages article {
+  border-left: 2px solid #c5dbe9;
+  padding-left: 20px;
+}
+.doctoral-stages h3 {
+  font-size: 18px;
+  line-height: 1.5;
+  margin: 0 0 15px;
+}
+.doctoral-stages p {
+  font-size: 14px;
+  margin: 0;
+}
+.master-summary {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.archive-intro {
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+.training-overview > a:hover {
+  border-color: var(--portal-accent);
+  background: #edf5fa;
+}
+.training-overview p {
+  margin: 0;
+}
+@media (max-width: 750px) {
+  .doctoral-stages {
+    grid-template-columns: 1fr;
+  }
+}
+@media (max-width: 600px) {
+  .join-reasons,
+  .former-training-grid,
+  .training-overview {
+    grid-template-columns: 1fr;
+  }
+  .join-reasons article,
+  .former-training-grid article,
+  .training-overview > a,
+  .join-next,
+  .institutional-cta {
+    padding: 22px;
+  }
+  .training-content h2 {
+    font-size: 22px;
+  }
+  .training-actions {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}
+[data-research-directory="doctorants"] .research-list{display:block}
+[data-research-directory="doctorants"] .research-record{padding:16px 0;border:0;border-bottom:1px solid var(--line);background:transparent}
+[data-research-directory="doctorants"] .research-record h2{font-size:18px;margin:10px 0}
+[data-research-directory="doctorants"] .research-record h2 a{color:var(--portal-blue);text-decoration:underline;text-underline-offset:3px}
+@media(max-width:750px){.profile-columns{grid-template-columns:1fr;gap:28px}.profile-identity dl{display:grid;grid-template-columns:150px 1fr;gap:12px}.profile-identity dt,.profile-identity dd{margin:0}.profile-identity .text-link{font-size:12px}.profile-heading{gap:22px}.profile-photo,.profile-initials{width:115px;height:140px}}
+@media(max-width:500px){.profile-heading{align-items:start;flex-direction:column;gap:15px}.profile-photo,.profile-initials{width:105px;height:125px}.profile-identity dl{display:block}.profile-identity dt{margin-top:17px}.profile-identity dd{margin-top:5px}.profile-identity{padding:22px}.roster-group h2{font-size:22px}.roster-list a{font-size:14px}.roster-list li>span{font-size:12px}.directory-jumps{gap:8px}.directory-jumps a{font-size:12px;padding:9px 11px}}
