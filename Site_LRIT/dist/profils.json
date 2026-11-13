@@ -1,0 +1,164 @@
+{
+  "membre-belmajdoub-hanae": {
+    "displayName": "Hanae Belmajdoub",
+    "photo": "assets/hanae-belmajdoub.png",
+    "gradeLabel": "Maître de conférences assistante",
+    "presentation": [
+      "Hanae Belmajdoub est enseignante-chercheuse à la FSJES-Souissi, Université Mohammed V de Rabat, et membre permanent du LRIT. Elle a soutenu son doctorat en informatique et télécommunications le 2 décembre 2023 à la Faculté des Sciences de Rabat.",
+      "Ses travaux portent sur l’intelligence artificielle, l’apprentissage profond et le traitement d’images, notamment la détection et le suivi de l’upwelling côtier à partir de données satellitaires, ainsi que les applications à la santé et aux données spatio-temporelles.",
+      "Ses activités pédagogiques comprennent l’algorithmique, la programmation, les compétences numériques, les technologies web et les outils d’analyse de données. Elle participe à l’encadrement de projets de fin d’études et aux activités scientifiques du laboratoire."
+    ],
+    "specialties": [
+      "Intelligence artificielle",
+      "Apprentissage profond",
+      "Traitement d’images",
+      "Télédétection",
+      "Upwelling côtier",
+      "Prévision spatio-temporelle",
+      "IA pour la santé"
+    ],
+    "links": [
+      {
+        "label": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=CMhDNZcAAAAJ&hl=fr"
+      },
+      {
+        "label": "ORCID",
+        "url": "https://orcid.org/0000-0002-6283-6108"
+      },
+      {
+        "label": "Scopus",
+        "url": "https://www.scopus.com/authid/detail.uri?authorId=59224989600"
+      }
+    ],
+    "publications": [
+      {
+        "year": 2023,
+        "journal": "Remote Sensing Letters",
+        "title": "Convolutional neural networks for coastal upwelling monitoring along the Atlantic Coast of Morocco",
+        "authors": "Hanae Belmajdoub, Anass El Aouni et Khalid Minaoui.",
+        "url": "https://doi.org/10.1080/2150704X.2023.2237161"
+      },
+      {
+        "year": 2023,
+        "journal": "Remote Sensing",
+        "title": "A New Upwelling Index for the Moroccan Atlantic Coast for the Period between 1982–2021",
+        "authors": "Hanae Belmajdoub, Khalid Minaoui, Anass El Aouni, Karim Hilmi, Rachid Saadane et Abdellah Chehri.",
+        "url": "https://doi.org/10.3390/rs15143459"
+      }
+    ]
+  },
+  "membre-minaoui-khalid": {
+    "displayName": "Khalid Minaoui",
+    "photo": "assets/minaoui.jpeg",
+    "presentation": [
+      "Khalid Minaoui est professeur de l’enseignement supérieur à la Faculté des Sciences de Rabat, Université Mohammed V, et directeur du LRIT depuis 2022. Il coordonne également le Master de recherche en Informatique et Télécommunications.",
+      "Ses travaux portent sur le traitement du signal et des images, l’intelligence artificielle et leurs applications. Ils concernent notamment l’analyse d’images satellitaires pour l’observation de l’upwelling côtier, la modélisation de la mobilité et les méthodes d’apprentissage pour l’analyse de données.",
+      "Ses activités associent recherche, enseignement et encadrement doctoral. Au LRIT, il accompagne les projets de recherche et la formation des doctorants, en collaboration avec les enseignants-chercheurs et les partenaires du laboratoire."
+    ],
+    "specialties": [
+      "Traitement du signal",
+      "Traitement d’images",
+      "Intelligence artificielle",
+      "Télédétection et upwelling côtier",
+      "Modélisation de la mobilité",
+      "Télécommunications"
+    ],
+    "links": [
+      {
+        "label": "Site personnel",
+        "url": "https://khalid-minaoui-recherche.singlebulb.chatgpt.site"
+      },
+      {
+        "label": "ORCID",
+        "url": "https://orcid.org/0000-0002-3918-8552"
+      },
+      {
+        "label": "Scopus",
+        "url": "https://www.scopus.com/authid/detail.uri?authorId=55312226700"
+      },
+      {
+        "label": "DBLP",
+        "url": "https://dblp.org/pid/145/4586.html"
+      },
+      {
+        "label": "Master IT",
+        "url": "https://master-it-fsr-rabat.singlebulb.chatgpt.site"
+      }
+    ],
+    "gradeLabel": "Professeur de l’enseignement supérieur",
+    "publications": [
+      {
+        "year": 2025,
+        "journal": "IEEE Transactions on Intelligent Vehicles",
+        "title": "Advanced Clustering Metric for Mobility Model Using DBSCAN",
+        "authors": "Siham Sadiki, Nisrine Ibadah, Hanae Belmajdoub et Khalid Minaoui.",
+        "url": "https://doi.org/10.1109/TIV.2024.3519999"
+      },
+      {
+        "year": 2023,
+        "journal": "Remote Sensing",
+        "title": "A New Upwelling Index for the Moroccan Atlantic Coast for the Period between 1982–2021",
+        "authors": "Hanae Belmajdoub, Khalid Minaoui, Anass El Aouni, Karim Hilmi, Rachid Saadane et Abdellah Chehri.",
+        "url": "https://doi.org/10.3390/rs15143459"
+      }
+    ]
+  },
+  "membre-mouline-salma": {
+    "displayName": "Salma Mouline",
+    "gradeLabel": "Professeure de l’enseignement supérieur",
+    "photo": "assets/salma-mouline.jpg",
+    "email": "salma.mouline@fsr.um5.ac.ma",
+    "presentation": [
+      "Salma Mouline est professeure de l’enseignement supérieur au département d’informatique de la Faculté des Sciences de Rabat, Université Mohammed V, et membre permanent du LRIT. Elle a obtenu son doctorat en informatique à l’Université Pierre-Mendès-France de Grenoble en 1994.",
+      "Ses recherches portent sur le génie logiciel, les systèmes d’information, l’ingénierie des modèles et la vérification formelle des systèmes complexes. Ses publications abordent également les systèmes de recommandation, les données massives et la modélisation des réseaux.",
+      "Ses enseignements comprennent notamment la conception orientée objet avec UML, l’ingénierie des modèles et les bases de données. Elle participe à l’encadrement doctoral au sein du LRIT et aux collaborations scientifiques du laboratoire."
+    ],
+    "specialties": [
+      "Génie logiciel",
+      "Systèmes d’information",
+      "Ingénierie des modèles",
+      "Vérification formelle",
+      "Modélisation des systèmes complexes",
+      "Systèmes de recommandation et données massives"
+    ],
+    "links": [
+      {
+        "label": "Site académique",
+        "url": "https://sites.google.com/site/moulinesalma"
+      },
+      {
+        "label": "Google Scholar",
+        "url": "https://scholar.google.com/citations?hl=fr&oi=ao&user=XllTZIDT87IC"
+      },
+      {
+        "label": "ORCID",
+        "url": "https://orcid.org/0000-0003-0417-8968"
+      },
+      {
+        "label": "DBLP",
+        "url": "https://dblp.org/pid/52/82.html"
+      },
+      {
+        "label": "Fiche LIP6",
+        "url": "https://www.lip6.fr/actualite/personnes-fiche.php?ident=I2204"
+      }
+    ],
+    "publications": [
+      {
+        "year": 2024,
+        "journal": "ISIVC 2024",
+        "title": "The MDE for automating schema transformations of NoSQL databases",
+        "authors": "Noussaiba Daali, Souad Amghar, Salma Mouline et Safae Cherdal.",
+        "url": "https://doi.org/10.1109/ISIVC61350.2024.10577785"
+      },
+      {
+        "year": 2021,
+        "journal": "Journal of Big Data",
+        "title": "Evaluation of recent advances in recommender systems on Arabic content",
+        "authors": "Mehdi Srifi, Ahmed Oussous, Ayoub Ait Lahcen et Salma Mouline.",
+        "url": "https://doi.org/10.1186/s40537-021-00420-2"
+      }
+    ]
+  }
+}
