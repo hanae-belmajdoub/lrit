@@ -1,0 +1,41 @@
+{
+  "s1": [
+    "Probability and statistics",
+    "Advanced object-oriented programming",
+    "Systems programming",
+    "Advanced computer networks",
+    "Digital signal processing",
+    "English language",
+    "Innovation and intellectual property"
+  ],
+  "s2": [
+    "Machine learning / Deep learning",
+    "Advanced architecture",
+    "Digital communications",
+    "Data engineering",
+    "Computer security",
+    "Scientific research methodology",
+    "Entrepreneurial culture"
+  ],
+  "ia": [
+    "Computer vision",
+    "Graph theory",
+    "Model and language engineering",
+    "Concurrent and parallel programming",
+    "Big Data",
+    "Video processing",
+    "AI applications to 3D vision and NLP"
+  ],
+  "rt": [
+    "Microwaves",
+    "Wireless technologies",
+    "Big Data",
+    "Antenna processing",
+    "Computer vision",
+    "Graph theory",
+    "Video processing"
+  ],
+  "s4": [
+    "Final-year project"
+  ]
+}
