@@ -1,0 +1,164 @@
+{
+  "membre-belmajdoub-hanae": {
+    "displayName": "Hanae Belmajdoub",
+    "photo": "../assets/hanae-belmajdoub.png",
+    "gradeLabel": "Assistant lecturer",
+    "presentation": [
+      "Hanae Belmajdoub is a faculty member at FSJES-Souissi, Mohammed V University in Rabat, and a permanent member of LRIT. She defended her PhD in Computer Science and Telecommunications on 2 December 2023 at the Faculty of Sciences of Rabat.",
+      "Her research focuses on artificial intelligence, deep learning and image processing, particularly the detection and monitoring of coastal upwelling using satellite data, as well as applications in health and spatiotemporal data.",
+      "Her teaching covers algorithms, programming, digital skills, web technologies and data analysis tools. She contributes to final-year project supervision and the laboratory’s scientific activities."
+    ],
+    "specialties": [
+      "Artificial intelligence",
+      "Deep learning",
+      "Image processing",
+      "Remote sensing",
+      "Coastal upwelling",
+      "Spatiotemporal forecasting",
+      "AI for health"
+    ],
+    "links": [
+      {
+        "label": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=CMhDNZcAAAAJ&hl=fr"
+      },
+      {
+        "label": "ORCID",
+        "url": "https://orcid.org/0000-0002-6283-6108"
+      },
+      {
+        "label": "Scopus",
+        "url": "https://www.scopus.com/authid/detail.uri?authorId=59224989600"
+      }
+    ],
+    "publications": [
+      {
+        "year": 2023,
+        "journal": "Remote Sensing Letters",
+        "title": "Convolutional neural networks for coastal upwelling monitoring along the Atlantic Coast of Morocco",
+        "authors": "Hanae Belmajdoub, Anass El Aouni and Khalid Minaoui.",
+        "url": "https://doi.org/10.1080/2150704X.2023.2237161"
+      },
+      {
+        "year": 2023,
+        "journal": "Remote Sensing",
+        "title": "A New Upwelling Index for the Moroccan Atlantic Coast for the Period between 1982–2021",
+        "authors": "Hanae Belmajdoub, Khalid Minaoui, Anass El Aouni, Karim Hilmi, Rachid Saadane and Abdellah Chehri.",
+        "url": "https://doi.org/10.3390/rs15143459"
+      }
+    ]
+  },
+  "membre-minaoui-khalid": {
+    "displayName": "Khalid Minaoui",
+    "photo": "../assets/minaoui.jpeg",
+    "presentation": [
+      "Khalid Minaoui is a professor at the Faculty of Sciences of Rabat, Mohammed V University, and has been director of LRIT since 2022. He also coordinates the research Master’s in Computer Science and Telecommunications.",
+      "His research focuses on signal and image processing, artificial intelligence and their applications. It includes satellite image analysis for coastal upwelling observation, mobility modelling and learning methods for data analysis.",
+      "His activities combine research, teaching and doctoral supervision. At LRIT, he supports research projects and doctoral training in collaboration with the laboratory’s faculty and partners."
+    ],
+    "specialties": [
+      "Signal processing",
+      "Image processing",
+      "Artificial intelligence",
+      "Remote sensing and coastal upwelling",
+      "Mobility modelling",
+      "Telecommunications"
+    ],
+    "links": [
+      {
+        "label": "Personal website",
+        "url": "https://khalid-minaoui-recherche.singlebulb.chatgpt.site"
+      },
+      {
+        "label": "ORCID",
+        "url": "https://orcid.org/0000-0002-3918-8552"
+      },
+      {
+        "label": "Scopus",
+        "url": "https://www.scopus.com/authid/detail.uri?authorId=55312226700"
+      },
+      {
+        "label": "DBLP",
+        "url": "https://dblp.org/pid/145/4586.html"
+      },
+      {
+        "label": "Master IT",
+        "url": "../master-it/en/index.html"
+      }
+    ],
+    "gradeLabel": "Professor",
+    "publications": [
+      {
+        "year": 2025,
+        "journal": "IEEE Transactions on Intelligent Vehicles",
+        "title": "Advanced Clustering Metric for Mobility Model Using DBSCAN",
+        "authors": "Siham Sadiki, Nisrine Ibadah, Hanae Belmajdoub and Khalid Minaoui.",
+        "url": "https://doi.org/10.1109/TIV.2024.3519999"
+      },
+      {
+        "year": 2023,
+        "journal": "Remote Sensing",
+        "title": "A New Upwelling Index for the Moroccan Atlantic Coast for the Period between 1982–2021",
+        "authors": "Hanae Belmajdoub, Khalid Minaoui, Anass El Aouni, Karim Hilmi, Rachid Saadane and Abdellah Chehri.",
+        "url": "https://doi.org/10.3390/rs15143459"
+      }
+    ]
+  },
+  "membre-mouline-salma": {
+    "displayName": "Salma Mouline",
+    "gradeLabel": "Professor",
+    "photo": "../assets/salma-mouline.jpg",
+    "email": "salma.mouline@fsr.um5.ac.ma",
+    "presentation": [
+      "Salma Mouline is a professor in the Computer Science Department at the Faculty of Sciences of Rabat, Mohammed V University, and a permanent member of LRIT. She obtained her PhD in Computer Science at Pierre Mendès France University in Grenoble in 1994.",
+      "Her research focuses on software engineering, information systems, model engineering and formal verification of complex systems. Her publications also address recommender systems, big data and network modelling.",
+      "Her teaching includes object-oriented design with UML, model engineering and databases. She contributes to doctoral supervision at LRIT and to the laboratory’s scientific collaborations."
+    ],
+    "specialties": [
+      "Software engineering",
+      "Information systems",
+      "Model engineering",
+      "Formal verification",
+      "Complex system modelling",
+      "Recommender systems and big data"
+    ],
+    "links": [
+      {
+        "label": "Academic website",
+        "url": "https://sites.google.com/site/moulinesalma"
+      },
+      {
+        "label": "Google Scholar",
+        "url": "https://scholar.google.com/citations?hl=fr&oi=ao&user=XllTZIDT87IC"
+      },
+      {
+        "label": "ORCID",
+        "url": "https://orcid.org/0000-0003-0417-8968"
+      },
+      {
+        "label": "DBLP",
+        "url": "https://dblp.org/pid/52/82.html"
+      },
+      {
+        "label": "LIP6 profile",
+        "url": "https://www.lip6.fr/actualite/personnes-fiche.php?ident=I2204"
+      }
+    ],
+    "publications": [
+      {
+        "year": 2024,
+        "journal": "ISIVC 2024",
+        "title": "The MDE for automating schema transformations of NoSQL databases",
+        "authors": "Noussaiba Daali, Souad Amghar, Salma Mouline and Safae Cherdal.",
+        "url": "https://doi.org/10.1109/ISIVC61350.2024.10577785"
+      },
+      {
+        "year": 2021,
+        "journal": "Journal of Big Data",
+        "title": "Evaluation of recent advances in recommender systems on Arabic content",
+        "authors": "Mehdi Srifi, Ahmed Oussous, Ayoub Ait Lahcen and Salma Mouline.",
+        "url": "https://doi.org/10.1186/s40537-021-00420-2"
+      }
+    ]
+  }
+}

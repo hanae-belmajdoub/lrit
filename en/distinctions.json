@@ -1,0 +1,115 @@
+[
+  {
+    "id": "greenup-2025",
+    "category": "innovation",
+    "title": "Green Up Challenge IA — Redal Innovation Trophy",
+    "result": "First prize",
+    "date": "30 June 2025",
+    "year": 2025,
+    "place": "Faculty of Sciences of Rabat",
+    "image": "../assets/manifestations/rapport-p301-1.webp",
+    "description": "First prize in the Green Up Challenge IA hackathon, recorded among the laboratory’s awards."
+  },
+  {
+    "id": "ehealth-2024",
+    "category": "innovation",
+    "title": "International eHealth Forum Hackathon — The era of digital health",
+    "result": "First prize",
+    "date": "31 October 2024",
+    "year": 2024,
+    "place": "UM6SS, Casablanca",
+    "image": "../assets/manifestations/rapport-p302-1.webp",
+    "description": "The LRIT team won first prize in the hackathon with the Voice Pathology project."
+  },
+  {
+    "id": "letschallenge-2022",
+    "category": "innovation",
+    "title": "Let’s Challenge 7.0 — 4th edition",
+    "result": "First prize",
+    "date": "16 December 2022",
+    "year": 2022,
+    "place": "El Jadida",
+    "image": "../assets/manifestations/rapport-p303-1.webp",
+    "description": "First prize won at the Let’s Challenge 7.0 competition."
+  },
+  {
+    "id": "robotics-first-2022",
+    "category": "innovation",
+    "title": "National Competition of Innovation and Robotics — 2nd edition",
+    "result": "First prize",
+    "date": "2 July 2022",
+    "year": 2022,
+    "place": "EST Salé",
+    "image": "../assets/manifestations/rapport-p303-2.webp",
+    "description": "First prize in the second edition of the national innovation and robotics competition."
+  },
+  {
+    "id": "robotics-third-2022",
+    "category": "innovation",
+    "title": "National Competition of Innovation and Robotics — 2nd edition",
+    "result": "Third prize",
+    "date": "2 July 2022",
+    "year": 2022,
+    "place": "EST Salé",
+    "image": "../assets/manifestations/rapport-p303-2.webp",
+    "description": "Third prize in the same competition. The photograph in the report shows the teams and their awards together."
+  },
+  {
+    "id": "complex-2020",
+    "category": "these",
+    "title": "Complex Systems Thesis Award",
+    "result": "Thesis award",
+    "person": "Anass El Aouni",
+    "date": "2020",
+    "year": 2020,
+    "place": "CNRS",
+    "image": "../assets/manifestations/rapport-p304-2.webp",
+    "description": "Thesis award recorded in the report for Anass El Aouni. The image brings together certificates for three thesis awards."
+  },
+  {
+    "id": "toubkal-2017",
+    "category": "these",
+    "title": "Best Cotutelle Thesis Award — Professor Aboutajdine",
+    "result": "Thesis award",
+    "person": "Ayoub Tamim",
+    "date": "2017",
+    "year": 2017,
+    "place": "Toubkal Programme",
+    "image": "../assets/manifestations/rapport-p304-2.webp",
+    "description": "Cotutelle thesis award recorded in the report for Ayoub Tamim. The image brings together certificates for three thesis awards."
+  },
+  {
+    "id": "afrif-2015",
+    "category": "these",
+    "title": "AFRIF Thesis Award",
+    "result": "Thesis award",
+    "person": "Hicham Badri",
+    "date": "2015",
+    "year": 2015,
+    "place": "AFRIF, France",
+    "image": "../assets/manifestations/rapport-p304-2.webp",
+    "description": "Thesis award recorded in the report for Hicham Badri. The image brings together certificates for three thesis awards."
+  },
+  {
+    "id": "gaming-stand-2024",
+    "category": "participation",
+    "title": "Morocco Gaming Expo — Exhibition stand activities",
+    "result": "Participation & outreach",
+    "date": "24–26 May 2024",
+    "year": 2024,
+    "place": "Rabat",
+    "image": "../assets/manifestations/rapport-p302-2.webp",
+    "description": "Exhibition stand activities at the first Morocco Gaming Expo. This activity is participation, distinct from an award."
+  },
+  {
+    "id": "gaming-pitch-2024",
+    "category": "participation",
+    "title": "Morocco Gaming Expo — HandsWar: online game",
+    "result": "Project presentation",
+    "date": "24–26 May 2024",
+    "year": 2024,
+    "place": "Rabat",
+    "image": "../assets/manifestations/rapport-p302-3.webp",
+    "description": "Presentation of the HandsWar: online game pitch at the first Morocco Gaming Expo."
+  }
+]

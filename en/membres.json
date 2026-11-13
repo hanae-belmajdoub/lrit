@@ -1,0 +1,548 @@
+[
+  {
+    "nom": "ALAOUI",
+    "prenom": "Rachid",
+    "grade": "PES",
+    "etablissement": "EST-Salé",
+    "statut": "permanent"
+  },
+  {
+    "nom": "BALLIHI",
+    "prenom": "Lahoucine",
+    "grade": "PES",
+    "etablissement": "FSR",
+    "statut": "permanent"
+  },
+  {
+    "nom": "BELGANCHE",
+    "prenom": "Zeyneb",
+    "grade": "MC",
+    "etablissement": "ENSAM",
+    "statut": "permanent"
+  },
+  {
+    "nom": "BELHAJEM",
+    "prenom": "Ikram",
+    "grade": "MCH",
+    "etablissement": "FSR",
+    "statut": "permanent"
+  },
+  {
+    "nom": "BELMAJDOUB",
+    "prenom": "Hanae",
+    "grade": "MC",
+    "etablissement": "FSJES-Souissi",
+    "statut": "permanent"
+  },
+  {
+    "nom": "CHERDAL",
+    "prenom": "Safae",
+    "grade": "MC",
+    "etablissement": "FSR",
+    "statut": "permanent"
+  },
+  {
+    "nom": "EL AMRANI",
+    "prenom": "Younes",
+    "grade": "PES",
+    "etablissement": "FSR",
+    "statut": "permanent"
+  },
+  {
+    "nom": "EL HASSOUNI",
+    "prenom": "Mohammed",
+    "grade": "PES",
+    "etablissement": "FLSH",
+    "statut": "permanent"
+  },
+  {
+    "nom": "EL HAZITI",
+    "prenom": "Mohammed",
+    "grade": "PES",
+    "etablissement": "EST-Salé",
+    "statut": "permanent"
+  },
+  {
+    "nom": "EL MALIANI DRSSI",
+    "prenom": "Ahmed",
+    "grade": "PES",
+    "etablissement": "FSR",
+    "statut": "permanent"
+  },
+  {
+    "nom": "EL RHALEB",
+    "prenom": "El Houssaine",
+    "grade": "PES",
+    "etablissement": "FSR",
+    "statut": "permanent"
+  },
+  {
+    "nom": "EL ZERK",
+    "prenom": "Abdallah",
+    "grade": "MC",
+    "etablissement": "FSR",
+    "statut": "permanent"
+  },
+  {
+    "nom": "ESSANNOUNI",
+    "prenom": "Leila",
+    "grade": "PES",
+    "etablissement": "EST-Salé",
+    "statut": "permanent"
+  },
+  {
+    "nom": "HAMMOUCH",
+    "prenom": "Ahmed",
+    "grade": "PES",
+    "etablissement": "ENSET",
+    "statut": "permanent"
+  },
+  {
+    "nom": "HIMMI",
+    "prenom": "Mohammed Majid",
+    "grade": "PES",
+    "etablissement": "FSR",
+    "statut": "permanent"
+  },
+  {
+    "nom": "HOUARI",
+    "prenom": "Soumaya",
+    "grade": "PES",
+    "etablissement": "FSR",
+    "statut": "permanent"
+  },
+  {
+    "nom": "KARFA BEKALI",
+    "prenom": "Younes",
+    "grade": "MCH",
+    "etablissement": "FSR",
+    "statut": "permanent"
+  },
+  {
+    "nom": "LAANAYA",
+    "prenom": "Hicham",
+    "grade": "PES",
+    "etablissement": "FSR",
+    "statut": "permanent"
+  },
+  {
+    "nom": "LAGHMATI",
+    "prenom": "Sara",
+    "grade": "MC",
+    "etablissement": "FSR",
+    "statut": "permanent"
+  },
+  {
+    "nom": "LOTFI",
+    "prenom": "Dounia",
+    "grade": "PES",
+    "etablissement": "FSR",
+    "statut": "permanent"
+  },
+  {
+    "nom": "MAAOUNI",
+    "prenom": "Abderrahman",
+    "grade": "PES",
+    "etablissement": "FSR",
+    "statut": "permanent"
+  },
+  {
+    "nom": "MEKOUAR",
+    "prenom": "Soufiana",
+    "grade": "MCH",
+    "etablissement": "FSR",
+    "statut": "permanent"
+  },
+  {
+    "nom": "MINAOUI",
+    "prenom": "Khalid",
+    "grade": "PES",
+    "etablissement": "FSR",
+    "statut": "permanent"
+  },
+  {
+    "nom": "MOHAMMADI",
+    "prenom": "Zakaria",
+    "grade": "MC",
+    "etablissement": "IS",
+    "statut": "permanent"
+  },
+  {
+    "nom": "MOULINE",
+    "prenom": "Salma",
+    "grade": "PES",
+    "etablissement": "FSR",
+    "statut": "permanent"
+  },
+  {
+    "nom": "OUADOU",
+    "prenom": "Mourad",
+    "grade": "MCH",
+    "etablissement": "FSR",
+    "statut": "permanent"
+  },
+  {
+    "nom": "RHOULAMI",
+    "prenom": "Khadija",
+    "grade": "PES",
+    "etablissement": "FLSH",
+    "statut": "permanent"
+  },
+  {
+    "nom": "RZIZA",
+    "prenom": "Mohammed",
+    "grade": "PES",
+    "etablissement": "FSR",
+    "statut": "permanent"
+  },
+  {
+    "nom": "SAHBANI",
+    "prenom": "Hajar",
+    "grade": "MC",
+    "etablissement": "FSJES-Salé",
+    "statut": "permanent"
+  },
+  {
+    "nom": "AARAB",
+    "prenom": "Zineb",
+    "grade": "MC",
+    "etablissement": "EMI-Rabat",
+    "statut": "associe"
+  },
+  {
+    "nom": "AIT ABDELOUAHED",
+    "prenom": "Abdelkaher",
+    "grade": "MCH",
+    "etablissement": "FS-El Jadida",
+    "statut": "associe"
+  },
+  {
+    "nom": "AIT KERROUM",
+    "prenom": "Mounir",
+    "grade": "PES",
+    "etablissement": "ENCG-kenitra",
+    "statut": "associe"
+  },
+  {
+    "nom": "ALIOUA",
+    "prenom": "Nawal",
+    "grade": "MCH",
+    "etablissement": "FP-Safi",
+    "statut": "associe"
+  },
+  {
+    "nom": "AMGHAR",
+    "prenom": "Souad",
+    "grade": "DR",
+    "etablissement": "",
+    "statut": "associe"
+  },
+  {
+    "nom": "AMINE",
+    "prenom": "Aouatif",
+    "grade": "PES",
+    "etablissement": "ENSA-Kenitra",
+    "statut": "associe"
+  },
+  {
+    "nom": "ATAA ALLAH",
+    "prenom": "Fadoua",
+    "grade": "PES",
+    "etablissement": "IRCAM-Rabat",
+    "statut": "associe"
+  },
+  {
+    "nom": "BAKRIM",
+    "prenom": "M'Hamed",
+    "grade": "PES",
+    "etablissement": "FST-Marrakech",
+    "statut": "associe"
+  },
+  {
+    "nom": "BARA",
+    "prenom": "Samir",
+    "grade": "MCH",
+    "etablissement": "EST-Khenifra",
+    "statut": "associe"
+  },
+  {
+    "nom": "BENJELLOUNE TOUIMI",
+    "prenom": "Yassine",
+    "grade": "DR",
+    "etablissement": "Défense nationale",
+    "statut": "associe"
+  },
+  {
+    "nom": "BOULAKNADEL",
+    "prenom": "Siham",
+    "grade": "PES",
+    "etablissement": "IRCAM-Rabat",
+    "statut": "associe"
+  },
+  {
+    "nom": "DAHA BELGHITI",
+    "prenom": "Imane",
+    "grade": "MCH",
+    "etablissement": "EST-Salé",
+    "statut": "associe"
+  },
+  {
+    "nom": "EL OUARDIGHI",
+    "prenom": "Abdeljalil",
+    "grade": "PES",
+    "etablissement": "FEG-settat",
+    "statut": "associe"
+  },
+  {
+    "nom": "EL QADI",
+    "prenom": "Abderrahim",
+    "grade": "PES",
+    "etablissement": "ENSAM-Salé",
+    "statut": "associe"
+  },
+  {
+    "nom": "ELABIDI",
+    "prenom": "Zayneb",
+    "grade": "DR",
+    "etablissement": "",
+    "statut": "associe"
+  },
+  {
+    "nom": "ELBHIRI",
+    "prenom": "Brahim",
+    "grade": "PES",
+    "etablissement": "RD Morocco",
+    "statut": "associe"
+  },
+  {
+    "nom": "ELGHAZI",
+    "prenom": "Asmae",
+    "grade": "MC",
+    "etablissement": "FS-Oujda",
+    "statut": "associe"
+  },
+  {
+    "nom": "ELMAROUD",
+    "prenom": "Brahim",
+    "grade": "MCH",
+    "etablissement": "",
+    "statut": "associe"
+  },
+  {
+    "nom": "ELOUAZZANI",
+    "prenom": "Rajaa",
+    "grade": "PES",
+    "etablissement": "EST-MEKNES",
+    "statut": "associe"
+  },
+  {
+    "nom": "ESSALIH",
+    "prenom": "Mohamed",
+    "grade": "MCH",
+    "etablissement": "EST-SAFI",
+    "statut": "associe"
+  },
+  {
+    "nom": "ESSANNOUNI",
+    "prenom": "Fedwa",
+    "grade": "Dr",
+    "etablissement": "ODEP",
+    "statut": "associe"
+  },
+  {
+    "nom": "FAKHRI",
+    "prenom": "Youssef",
+    "grade": "PES",
+    "etablissement": "FS-KENITRA",
+    "statut": "associe"
+  },
+  {
+    "nom": "FAQIHI",
+    "prenom": "Ahmed",
+    "grade": "PES",
+    "etablissement": "ENSIAS",
+    "statut": "associe"
+  },
+  {
+    "nom": "HOUCHIM",
+    "prenom": "Tarik",
+    "grade": "MC",
+    "etablissement": "ESI-Rabat",
+    "statut": "associe"
+  },
+  {
+    "nom": "IBADAH",
+    "prenom": "Nissrine",
+    "grade": "",
+    "etablissement": "",
+    "statut": "associe"
+  },
+  {
+    "nom": "JBARI",
+    "prenom": "Atman",
+    "grade": "PES",
+    "etablissement": "ENSAM-Rabat",
+    "statut": "associe"
+  },
+  {
+    "nom": "JIBOUNI",
+    "prenom": "Ayoub",
+    "grade": "MC",
+    "etablissement": "EST-Dakhla",
+    "statut": "associe"
+  },
+  {
+    "nom": "JILBAB",
+    "prenom": "Abdelilah",
+    "grade": "PES",
+    "etablissement": "ENSAM-Rabat",
+    "statut": "associe"
+  },
+  {
+    "nom": "KERROUM",
+    "prenom": "Khawla",
+    "grade": "MC",
+    "etablissement": "EMG",
+    "statut": "associe"
+  },
+  {
+    "nom": "KHALED",
+    "prenom": "Aniss",
+    "grade": "MC",
+    "etablissement": "EMG",
+    "statut": "associe"
+  },
+  {
+    "nom": "LAAROUSSI",
+    "prenom": "Mohamed",
+    "grade": "PES",
+    "etablissement": "EHTP-CASA",
+    "statut": "associe"
+  },
+  {
+    "nom": "LAHMIDI",
+    "prenom": "Ayoub",
+    "grade": "MC",
+    "etablissement": "FP-Sidi Bennour",
+    "statut": "associe"
+  },
+  {
+    "nom": "LYAZIDI",
+    "prenom": "Achraf",
+    "grade": "DR",
+    "etablissement": "",
+    "statut": "associe"
+  },
+  {
+    "nom": "MAFAMANE",
+    "prenom": "Rachid",
+    "grade": "MC",
+    "etablissement": "EMSI",
+    "statut": "associe"
+  },
+  {
+    "nom": "MIKRAM",
+    "prenom": "Mounia",
+    "grade": "PES",
+    "etablissement": "ISI-RABAT",
+    "statut": "associe"
+  },
+  {
+    "nom": "MOHTARAM",
+    "prenom": "Noureddine",
+    "grade": "MC",
+    "etablissement": "EMG",
+    "statut": "associe"
+  },
+  {
+    "nom": "NAZIH",
+    "prenom": "Marouane",
+    "grade": "MC",
+    "etablissement": "FS-MEKNES",
+    "statut": "associe"
+  },
+  {
+    "nom": "OUAARAB",
+    "prenom": "Aziz",
+    "grade": "MCH",
+    "etablissement": "FST-Marrakech",
+    "statut": "associe"
+  },
+  {
+    "nom": "QBOUCHE",
+    "prenom": "Khalid",
+    "grade": "MC",
+    "etablissement": "EST- FKIH BENSALEH",
+    "statut": "associe"
+  },
+  {
+    "nom": "RADGUI",
+    "prenom": "Meryem",
+    "grade": "MCH",
+    "etablissement": "ENSEA-RABAT",
+    "statut": "associe"
+  },
+  {
+    "nom": "RADGUI",
+    "prenom": "Amina",
+    "grade": "PES",
+    "etablissement": "INPT-RABAT",
+    "statut": "associe"
+  },
+  {
+    "nom": "ROUIJEL",
+    "prenom": "Awatif",
+    "grade": "MCH",
+    "etablissement": "ISMAC-Rabat",
+    "statut": "associe"
+  },
+  {
+    "nom": "SAADANE",
+    "prenom": "Rachid",
+    "grade": "PES",
+    "etablissement": "EHTP-CASA",
+    "statut": "associe"
+  },
+  {
+    "nom": "SAIDI",
+    "prenom": "Rajae",
+    "grade": "PES",
+    "etablissement": "ENSEA-RABAT",
+    "statut": "associe"
+  },
+  {
+    "nom": "SAIDI",
+    "prenom": "Mohamed Nabil",
+    "grade": "PES",
+    "etablissement": "INSEA-RABAT",
+    "statut": "associe"
+  },
+  {
+    "nom": "SAIDI",
+    "prenom": "Ibtissam",
+    "grade": "MC",
+    "etablissement": "FS-CASA",
+    "statut": "associe"
+  },
+  {
+    "nom": "SRIFI",
+    "prenom": "Mehdi",
+    "grade": "MC",
+    "etablissement": "fs-AGADIR",
+    "statut": "associe"
+  },
+  {
+    "nom": "ZIYATI",
+    "prenom": "Elhoussaine",
+    "grade": "PES",
+    "etablissement": "EST-Casa",
+    "statut": "associe"
+  },
+  {
+    "nom": "ZYTOUNE",
+    "prenom": "Ouadoudi",
+    "grade": "PES",
+    "etablissement": "ENSA- KENITRA",
+    "statut": "associe"
+  }
+]

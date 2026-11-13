@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Artificial intelligence & data",
+    "themes": [
+      "Artificial intelligence and its applications",
+      "Knowledge extraction",
+      "Data mining",
+      "Data warehouses and multidimensional analysis",
+      "Big Data",
+      "Graph theory",
+      "Indexing, information retrieval and navigation in multimedia databases"
+    ]
+  },
+  {
+    "title": "Signal, image & vision",
+    "themes": [
+      "Blind source separation and applications",
+      "Speech denoising and its applications",
+      "3D object processing and reconstruction",
+      "Quality of 2D images and 3D objects",
+      "Biometric systems: face detection, recognition and tracking in 2D and 3D imagery",
+      "Character recognition",
+      "Remote sensing image classification"
+    ]
+  },
+  {
+    "title": "Networks, IoT & cloud",
+    "themes": [
+      "IoT, cloud computing and security",
+      "Multimedia data transmission over mobile and wireless networks",
+      "Quality of service in wireless networks"
+    ]
+  },
+  {
+    "title": "Content security",
+    "themes": [
+      "Digital multimedia content security: image and video watermarking, cryptography"
+    ]
+  },
+  {
+    "title": "Telecommunications & antennas",
+    "themes": [
+      "Channel-robust coding and compression",
+      "Characterisation, UWB modelling and transmission channel equalisation",
+      "Antenna processing",
+      "Transmission lines"
+    ]
+  },
+  {
+    "title": "Systems & applications",
+    "themes": [
+      "Intelligent transport and smart cities",
+      "Real-time embedded systems",
+      "Hardware integration on DSP, SoC and NoC",
+      "Computer science education"
+    ]
+  },
+  {
+    "title": "Software engineering",
+    "themes": [
+      "Software system modelling and design",
+      "Model and language engineering",
+      "Software quality and evolution",
+      "Application development"
+    ]
+  }
+]
