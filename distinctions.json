@@ -1,19 +1,5 @@
 [
   {
-    "id": "bestpaper-icath-2026",
-    "category": "bestpaper",
-    "title": "Best Paper Awards — ICATH 2026",
-    "result": "Best Paper Award",
-    "person": "Charaf Orhanou · Doha Boukhanni",
-    "date": "2026",
-    "year": 2026,
-    "place": "ICATH 2026",
-    "image": null,
-    "short": "ICATH 2026",
-    "description": "Charaf Orhanou et Doha Boukhanni sont distingués à ICATH 2026 pour leurs contributions scientifiques.",
-    "sourceKind": "lab-update"
-  },
-  {
     "id": "bestpaper-wincom-2026",
     "category": "bestpaper",
     "title": "Best Paper Award — WINCOM 2026",
@@ -25,7 +11,23 @@
     "image": null,
     "short": "WINCOM 2026",
     "description": "Reda Elalaouy Elmhamdi est distingué par un Best Paper Award à WINCOM 2026.",
-    "sourceKind": "lab-update"
+    "sourceKind": "lab-update",
+    "sortDate": "2026-10-21"
+  },
+  {
+    "id": "bestpaper-icath-2026",
+    "category": "bestpaper",
+    "title": "Best Paper Awards — ICATH 2026",
+    "result": "Best Paper Award",
+    "person": "Charaf Orhanou · Doha Boukhanni",
+    "date": "2026",
+    "year": 2026,
+    "place": "ICATH 2026",
+    "image": null,
+    "short": "ICATH 2026",
+    "description": "Charaf Orhanou et Doha Boukhanni sont distingués à ICATH 2026 pour leurs contributions scientifiques.",
+    "sourceKind": "lab-update",
+    "sortDate": "2026-07-15"
   },
   {
     "id": "pitch-mecom-2026",
@@ -41,6 +43,54 @@
     "sourceKind": "lab-update"
   },
   {
+    "id": "greenup-2025",
+    "category": "innovation",
+    "title": "Green Up Challenge IA — Trophée Redal de l’innovation",
+    "result": "Premier prix",
+    "date": "30 juin 2025",
+    "year": 2025,
+    "place": "Faculté des Sciences de Rabat",
+    "image": "assets/manifestations/rapport-p301-1.webp",
+    "description": "Premier prix du hackathon Green Up Challenge IA, recensé dans les distinctions du laboratoire.",
+    "sortDate": "2025-06-30"
+  },
+  {
+    "id": "ehealth-2024",
+    "category": "innovation",
+    "title": "Hackathon International eHealth Forum — L’ère de la santé digitale",
+    "result": "Premier prix",
+    "date": "31 octobre 2024",
+    "year": 2024,
+    "place": "UM6SS, Casablanca",
+    "image": "assets/manifestations/rapport-p302-1.webp",
+    "description": "L’équipe LRIT a remporté le premier prix du hackathon avec le projet Voice Pathology.",
+    "sortDate": "2024-10-31"
+  },
+  {
+    "id": "gaming-stand-2024",
+    "category": "participation",
+    "title": "Morocco Gaming Expo — Animation du stand",
+    "result": "Participation & valorisation",
+    "date": "24–26 mai 2024",
+    "year": 2024,
+    "place": "Rabat",
+    "image": "assets/manifestations/rapport-p302-2.webp",
+    "description": "Animation du stand lors de la première édition du Morocco Gaming Expo. Cette activité est une participation, distincte d’un prix.",
+    "sortDate": "2024-05-24"
+  },
+  {
+    "id": "gaming-pitch-2024",
+    "category": "participation",
+    "title": "Morocco Gaming Expo — HandsWar: online game",
+    "result": "Présentation de projet",
+    "date": "24–26 mai 2024",
+    "year": 2024,
+    "place": "Rabat",
+    "image": "assets/manifestations/rapport-p302-3.webp",
+    "description": "Présentation du pitch HandsWar: online game lors de la première édition du Morocco Gaming Expo.",
+    "sortDate": "2024-05-24"
+  },
+  {
     "id": "presenter-oetic-2022",
     "category": "presentation",
     "title": "Best Student Presenter — OETIC 2022",
@@ -54,29 +104,8 @@
     "short": "OETIC 2022",
     "description": "Habib Idmouida a reçu le prix Best Student Presenter lors de l’IEEE Ocean Engineering Technology and Innovation Conference (OETIC 2022), organisée les 19 et 20 décembre 2022 à Surabaya, en Indonésie.",
     "sourceKind": "certificate",
-    "documentUrl": "assets/manifestations/awards/oetic-2022-habib-idmouida.pdf"
-  },
-  {
-    "id": "greenup-2025",
-    "category": "innovation",
-    "title": "Green Up Challenge IA — Trophée Redal de l’innovation",
-    "result": "Premier prix",
-    "date": "30 juin 2025",
-    "year": 2025,
-    "place": "Faculté des Sciences de Rabat",
-    "image": "assets/manifestations/rapport-p301-1.webp",
-    "description": "Premier prix du hackathon Green Up Challenge IA, recensé dans les distinctions du laboratoire."
-  },
-  {
-    "id": "ehealth-2024",
-    "category": "innovation",
-    "title": "Hackathon International eHealth Forum — L’ère de la santé digitale",
-    "result": "Premier prix",
-    "date": "31 octobre 2024",
-    "year": 2024,
-    "place": "UM6SS, Casablanca",
-    "image": "assets/manifestations/rapport-p302-1.webp",
-    "description": "L’équipe LRIT a remporté le premier prix du hackathon avec le projet Voice Pathology."
+    "documentUrl": "assets/manifestations/awards/oetic-2022-habib-idmouida.pdf",
+    "sortDate": "2022-12-19"
   },
   {
     "id": "letschallenge-2022",
@@ -87,7 +116,8 @@
     "year": 2022,
     "place": "El Jadida",
     "image": "assets/manifestations/rapport-p303-1.webp",
-    "description": "Premier prix obtenu lors de la compétition Let’s Challenge 7.0."
+    "description": "Premier prix obtenu lors de la compétition Let’s Challenge 7.0.",
+    "sortDate": "2022-12-16"
   },
   {
     "id": "robotics-first-2022",
@@ -98,7 +128,8 @@
     "year": 2022,
     "place": "EST Salé",
     "image": "assets/manifestations/rapport-p303-2.webp",
-    "description": "Premier prix de la deuxième édition de la compétition nationale d’innovation et de robotique."
+    "description": "Premier prix de la deuxième édition de la compétition nationale d’innovation et de robotique.",
+    "sortDate": "2022-07-02"
   },
   {
     "id": "robotics-third-2022",
@@ -109,7 +140,8 @@
     "year": 2022,
     "place": "EST Salé",
     "image": "assets/manifestations/rapport-p303-2.webp",
-    "description": "Troisième prix de cette même compétition. La photographie du rapport réunit les équipes et leurs récompenses."
+    "description": "Troisième prix de cette même compétition. La photographie du rapport réunit les équipes et leurs récompenses.",
+    "sortDate": "2022-07-02"
   },
   {
     "id": "complex-2020",
@@ -146,27 +178,5 @@
     "place": "AFRIF, France",
     "image": "assets/manifestations/rapport-p304-2.webp",
     "description": "Prix de thèse mentionné dans le rapport pour Hicham Badri. Le visuel rassemble les certificats de trois prix de thèse."
-  },
-  {
-    "id": "gaming-stand-2024",
-    "category": "participation",
-    "title": "Morocco Gaming Expo — Animation du stand",
-    "result": "Participation & valorisation",
-    "date": "24–26 mai 2024",
-    "year": 2024,
-    "place": "Rabat",
-    "image": "assets/manifestations/rapport-p302-2.webp",
-    "description": "Animation du stand lors de la première édition du Morocco Gaming Expo. Cette activité est une participation, distincte d’un prix."
-  },
-  {
-    "id": "gaming-pitch-2024",
-    "category": "participation",
-    "title": "Morocco Gaming Expo — HandsWar: online game",
-    "result": "Présentation de projet",
-    "date": "24–26 mai 2024",
-    "year": 2024,
-    "place": "Rabat",
-    "image": "assets/manifestations/rapport-p302-3.webp",
-    "description": "Présentation du pitch HandsWar: online game lors de la première édition du Morocco Gaming Expo."
   }
 ]

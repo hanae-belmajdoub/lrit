@@ -1,4 +1,4 @@
-CORRECTIF GITHUB CUMULATIF — 74 FICHIERS DU SITE
+CORRECTIF GITHUB CUMULATIF — 76 FICHIERS DU SITE
 
 Décompressez ce ZIP. Dans GitHub : dépôt lrit > Add file > Upload files.
 Glissez tout le contenu décompressé avec les dossiers assets et en, puis Commit changes.
@@ -13,6 +13,9 @@ Actualités de l’accueil et de la page News :
 - Best Paper Award WINCOM 2026 : Reda Elalaouy Elmhamdi.
 - Best PhD Thesis Pitch Award MECOM 2026 : lauréate non encore identifiée dans les informations transmises.
 - Best Student Presenter OETIC 2022 : Habib Idmouida, certificat original intégré et téléchargeable.
+
+News et conférences classées de la plus récente à la plus ancienne, avec tri maintenu après filtrage.
+Les annonces sans date sont à la fin ; les dates connues à l’année uniquement suivent les dates précises de cette même année.
 
 Nouvelle rubrique Best Paper Awards dans Valorisation, avec page best-paper.html en français et anglais. Les prix de pitch de thèse et de présentation sont séparés des Best Paper Awards.
 
