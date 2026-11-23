@@ -54,3 +54,6 @@ nav .page-current:after{right:0!important}.video-section{border-bottom:1px solid
 .news-announcement>span{font-size:10px;letter-spacing:1px}
 .news-announcement strong{font-size:29px;line-height:1.2;font-weight:400}
 @media(max-width:650px){.hero{padding-top:32px;padding-bottom:32px}.hero-copy h1{font-size:44px;letter-spacing:-1.4px}.history-directors{margin-top:38px}.history-directors .section-heading{gap:20px}}
+
+/* Conference archives: official sources and complete poster previews. */
+.conference-sources{display:flex;flex-wrap:wrap;gap:10px;margin:22px 0}.conference-sources .button{font-size:14px;padding:12px 16px}.conference-sources{padding-top:18px;border-top:1px solid var(--line)}

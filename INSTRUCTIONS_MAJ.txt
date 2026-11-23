@@ -1,0 +1,26 @@
+CORRECTIF GITHUB CUMULATIF — 74 FICHIERS DU SITE
+
+Décompressez ce ZIP. Dans GitHub : dépôt lrit > Add file > Upload files.
+Glissez tout le contenu décompressé avec les dossiers assets et en, puis Commit changes.
+Remplacez les fichiers de mêmes noms sans supprimer les autres fichiers ni le dossier master-it.
+Le correctif reste inférieur à 100 fichiers et peut être envoyé en une fois.
+Attendez la fin du déploiement GitHub Pages, puis actualisez avec Cmd+Shift+R.
+
+ACTUALISATION DU SITE LRIT — 23 NOVEMBRE 2026
+
+Actualités de l’accueil et de la page News :
+- Best Paper Awards ICATH 2026 : Charaf Orhanou et Doha Boukhanni. Habib Idmouida figure uniquement dans sa notice OETIC 2022.
+- Best Paper Award WINCOM 2026 : Reda Elalaouy Elmhamdi.
+- Best PhD Thesis Pitch Award MECOM 2026 : lauréate non encore identifiée dans les informations transmises.
+- Best Student Presenter OETIC 2022 : Habib Idmouida, certificat original intégré et téléchargeable.
+
+Nouvelle rubrique Best Paper Awards dans Valorisation, avec page best-paper.html en français et anglais. Les prix de pitch de thèse et de présentation sont séparés des Best Paper Awards.
+
+Corrections précédentes conservées :
+- Retrait WINCOM 2013 à 2017.
+- Affiche ISIVC 2018 réattribuée à ISIVC 2020.
+- Affiches fournies ICATH 2020, 2021 et 2022 et ISIVC 2022 intégrées.
+- À la une : Master Informatique et Télécommunications uniquement.
+- Filtres Toutes / Internationales / Nationales, sans boutons par série.
+- 45 manifestations : 30 internationales et 15 nationales.
+- Autres rubriques et Master IT intégré conservés.

@@ -188,8 +188,9 @@
     "page": 309,
     "index": 1,
     "scope": "international",
-    "caption": "ISIVC 2018 poster · p. 297",
-    "poster": true
+    "caption": "ISIVC 2020 poster · 30 June–3 July 2020",
+    "poster": true,
+    "conferenceId": "isivc-2020"
   },
   {
     "src": "../assets/manifestations/rapport-p310-1.webp",
@@ -278,5 +279,148 @@
     "scope": "national",
     "caption": "Tribute to Prof. Driss Aboutajdine · p. 309",
     "poster": true
+  },
+  {
+    "src": "../assets/manifestations/conferences/icath-2026.webp",
+    "scope": "international",
+    "caption": "ICATH 2026 · 15–17 July 2026",
+    "poster": true,
+    "conferenceId": "icath-2026",
+    "sourceUrl": "https://icath-conf.org/"
+  },
+  {
+    "src": "../assets/manifestations/conferences/icath-2025.webp",
+    "scope": "international",
+    "caption": "ICATH 2025 · 9–11 July 2025",
+    "poster": true,
+    "conferenceId": "icath-2025",
+    "sourceUrl": "https://icath-conf.org/icath2025/"
+  },
+  {
+    "src": "../assets/manifestations/conferences/icath-2024.webp",
+    "scope": "international",
+    "caption": "ICATH 2024 · 17–19 July 2024",
+    "poster": true,
+    "conferenceId": "icath-2024",
+    "sourceUrl": "https://icath-conf.org/icath2024/"
+  },
+  {
+    "src": "../assets/manifestations/conferences/icath-2023.webp",
+    "scope": "international",
+    "caption": "ICATH 2023 · 25–26 December 2023",
+    "poster": true,
+    "conferenceId": "icath-2023",
+    "sourceUrl": "https://icath-conf.org/icath2023/index.html"
+  },
+  {
+    "src": "../assets/manifestations/conferences/icath-2022-affiche.jpg",
+    "scope": "international",
+    "caption": "ICATH 2022 · 11–12 November 2022",
+    "poster": true,
+    "conferenceId": "icath-2022",
+    "sourceUrl": "https://icath-conf.org/icath2022/"
+  },
+  {
+    "src": "../assets/manifestations/conferences/icath-2021-affiche.jpg",
+    "scope": "international",
+    "caption": "ICATH 2021 · 26–27 November 2021",
+    "poster": true,
+    "conferenceId": "icath-2021",
+    "sourceUrl": "https://icath-conf.org/icath2021/"
+  },
+  {
+    "src": "../assets/manifestations/conferences/icath-2020-affiche.jpg",
+    "scope": "international",
+    "caption": "ICATH 2020 · 20–21 November 2020",
+    "poster": true,
+    "conferenceId": "icath-2020",
+    "sourceUrl": "https://icath-conf.org/icath2020/"
+  },
+  {
+    "src": "../assets/manifestations/conferences/icath-2019.webp",
+    "scope": "international",
+    "caption": "ICATH 2019 · 25–26 July 2019",
+    "poster": false,
+    "conferenceId": "icath-2019",
+    "sourceUrl": "https://icath-conf.org/icaths/home.html"
+  },
+  {
+    "src": "../assets/manifestations/conferences/ipta-2024.webp",
+    "scope": "international",
+    "caption": "IPTA 2024 · 14–17 October 2024",
+    "poster": true,
+    "conferenceId": "ipta-2024",
+    "sourceUrl": "https://ipta-conference.com/ipta24/"
+  },
+  {
+    "src": "../assets/manifestations/conferences/wincom-2026.webp",
+    "scope": "international",
+    "caption": "WINCOM 2026 · 21–24 October 2026",
+    "poster": true,
+    "conferenceId": "wincom-2026",
+    "sourceUrl": "https://www.wincom-conf.org/WINCOM_2026/"
+  },
+  {
+    "src": "../assets/manifestations/conferences/wincom-2025.webp",
+    "scope": "international",
+    "caption": "WINCOM 2025 · 25–27 November 2025",
+    "poster": true,
+    "conferenceId": "wincom-2025",
+    "sourceUrl": "https://www.wincom-conf.org/WINCOM_2025/"
+  },
+  {
+    "src": "../assets/manifestations/conferences/wincom-2024.webp",
+    "scope": "international",
+    "caption": "WINCOM 2024 · 23–25 July 2024",
+    "poster": true,
+    "conferenceId": "wincom-2024",
+    "sourceUrl": "https://www.wincom-conf.org/WINCOM_2024/"
+  },
+  {
+    "src": "../assets/manifestations/conferences/wincom-2023.webp",
+    "scope": "international",
+    "caption": "WINCOM 2023 · 26–28 October 2023",
+    "poster": true,
+    "conferenceId": "wincom-2023",
+    "sourceUrl": "https://www.wincom-conf.org/WINCOM_2023/"
+  },
+  {
+    "src": "../assets/manifestations/conferences/wincom-2022.webp",
+    "scope": "international",
+    "caption": "WINCOM 2022 · 26–29 October 2022",
+    "poster": true,
+    "conferenceId": "wincom-2022",
+    "sourceUrl": "https://www.wincom-conf.org/WINCOM_2022/"
+  },
+  {
+    "src": "../assets/manifestations/conferences/wincom-2020.webp",
+    "scope": "international",
+    "caption": "WINCOM 2020 · 27–29 October 2020",
+    "poster": true,
+    "conferenceId": "wincom-2020",
+    "sourceUrl": "https://www.wincom-conf.org/WINCOM_2020/"
+  },
+  {
+    "src": "../assets/manifestations/conferences/wincom-2019.webp",
+    "scope": "international",
+    "caption": "WINCOM 2019 · 29 October–1 November 2019",
+    "poster": true,
+    "conferenceId": "wincom-2019",
+    "sourceUrl": "https://www.wincom-conf.org/WINCOM_2019/"
+  },
+  {
+    "src": "../assets/manifestations/conferences/isivc-2022-affiche.webp",
+    "scope": "international",
+    "caption": "ISIVC 2022 · 18–20 May 2022",
+    "poster": true,
+    "conferenceId": "isivc-2022",
+    "sourceUrl": "https://isivc2022.sciencesconf.org/"
+  },
+  {
+    "src": "../assets/manifestations/awards/oetic-2022-habib-idmouida.webp",
+    "scope": "distinction",
+    "caption": "Habib Idmouida · Best Student Presenter · OETIC 2022",
+    "poster": true,
+    "awardId": "presenter-oetic-2022"
   }
 ]
