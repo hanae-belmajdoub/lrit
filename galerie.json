@@ -1,5 +1,12 @@
 [
   {
+    "src": "assets/manifestations/awards/sca-2026-best-presentation.jpg",
+    "scope": "distinction",
+    "caption": "Best Presentation Award · SCA’26 · Leila Boukhris · Marouane Nazih · Ayoub Lahmidi · Khalid Minaoui",
+    "poster": false,
+    "awardId": "presentation-sca-2026"
+  },
+  {
     "src": "assets/manifestations/rapport-p293-1.webp",
     "page": 293,
     "index": 1,

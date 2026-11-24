@@ -1,5 +1,21 @@
 [
   {
+    "id": "presentation-sca-2026",
+    "category": "presentation",
+    "title": "Best Presentation Award — SCA’26",
+    "result": "Best Presentation Award",
+    "person": "Leila Boukhris · Marouane Nazih · Ayoub Lahmidi · Khalid Minaoui",
+    "date": "10–12 novembre 2026",
+    "year": 2026,
+    "place": "Karabük, Turquie",
+    "image": "assets/manifestations/awards/sca-2026-best-presentation.jpg",
+    "short": "SCA’26",
+    "description": "Leila Boukhris, Marouane Nazih, Ayoub Lahmidi et Khalid Minaoui ont reçu le Best Presentation Award lors de la 11e International Conference on Smart Cities & Applications (SCA’26), organisée du 10 au 12 novembre 2026 à Karabük, en Turquie. Cette distinction récompense la clarté, la qualité et la présentation du travail intitulé « Temporal Resolution and Forgetting-Aware Gains in DKT-Forget: An Audit of Three Knowledge Tracing Benchmarks ».",
+    "sourceKind": "certificate",
+    "documentUrl": "assets/manifestations/awards/sca-2026-best-presentation.pdf",
+    "sortDate": "2026-11-10"
+  },
+  {
     "id": "bestpaper-wincom-2026",
     "category": "bestpaper",
     "title": "Best Paper Award — WINCOM 2026",

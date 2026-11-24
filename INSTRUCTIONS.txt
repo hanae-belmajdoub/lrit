@@ -1,0 +1,5 @@
+MISE À JOUR LRIT — Best Presentation Award SCA 2026
+
+Décompressez ce ZIP. Dans le dépôt GitHub lrit, ouvrez Add file > Upload files. Glissez tout le contenu, y compris les dossiers en et assets, puis Commit changes. Acceptez le remplacement des fichiers existants. Ne supprimez pas les autres fichiers.
+
+Cette mise à jour complète la version précédente : ajout du prix de présentation SCA’26, des quatre auteurs cités sur l’attestation, de la photo et du PDF original. Actualité ajoutée en premier, avec quatre News conservées. Français et anglais inclus.
