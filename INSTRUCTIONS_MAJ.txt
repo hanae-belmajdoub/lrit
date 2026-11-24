@@ -1,4 +1,4 @@
-CORRECTIF GITHUB CUMULATIF — 78 FICHIERS DU SITE
+CORRECTIF GITHUB CUMULATIF — 86 FICHIERS DU SITE
 
 Décompressez ce ZIP. Dans GitHub : dépôt lrit > Add file > Upload files.
 Glissez tout le contenu décompressé avec les dossiers assets et en, puis Commit changes.
@@ -22,3 +22,5 @@ Les autres distinctions restent accessibles dans Prix et distinctions, dont le B
 Les liens vers les sites personnels de Khalid Minaoui et Hanae Belmajdoub ne sont plus proposés. Les fiches internes et liens scientifiques sont conservés.
 
 Toutes les corrections précédentes sont conservées, notamment les affiches fournies, la réattribution ISIVC 2020, l’encart Master IT seul à la une, les traductions et le classement chronologique.
+
+MASTER IT : présentation déplacée dans l’accueil, visuel supprimé ; deux options S3 affichées simultanément ; Actualités avec inscriptions et rentrée S1/S3 (annonces à venir) ; quatre nouvelles des étudiants avec leurs images ; Prix et distinctions avec trois prix et une participation séparée ; français et anglais. Version intégrée identique au site Master autonome.
