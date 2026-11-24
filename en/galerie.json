@@ -353,62 +353,6 @@
     "sourceUrl": "https://ipta-conference.com/ipta24/"
   },
   {
-    "src": "../assets/manifestations/conferences/wincom-2026.webp",
-    "scope": "international",
-    "caption": "WINCOM 2026 · 21–24 October 2026",
-    "poster": true,
-    "conferenceId": "wincom-2026",
-    "sourceUrl": "https://www.wincom-conf.org/WINCOM_2026/"
-  },
-  {
-    "src": "../assets/manifestations/conferences/wincom-2025.webp",
-    "scope": "international",
-    "caption": "WINCOM 2025 · 25–27 November 2025",
-    "poster": true,
-    "conferenceId": "wincom-2025",
-    "sourceUrl": "https://www.wincom-conf.org/WINCOM_2025/"
-  },
-  {
-    "src": "../assets/manifestations/conferences/wincom-2024.webp",
-    "scope": "international",
-    "caption": "WINCOM 2024 · 23–25 July 2024",
-    "poster": true,
-    "conferenceId": "wincom-2024",
-    "sourceUrl": "https://www.wincom-conf.org/WINCOM_2024/"
-  },
-  {
-    "src": "../assets/manifestations/conferences/wincom-2023.webp",
-    "scope": "international",
-    "caption": "WINCOM 2023 · 26–28 October 2023",
-    "poster": true,
-    "conferenceId": "wincom-2023",
-    "sourceUrl": "https://www.wincom-conf.org/WINCOM_2023/"
-  },
-  {
-    "src": "../assets/manifestations/conferences/wincom-2022.webp",
-    "scope": "international",
-    "caption": "WINCOM 2022 · 26–29 October 2022",
-    "poster": true,
-    "conferenceId": "wincom-2022",
-    "sourceUrl": "https://www.wincom-conf.org/WINCOM_2022/"
-  },
-  {
-    "src": "../assets/manifestations/conferences/wincom-2020.webp",
-    "scope": "international",
-    "caption": "WINCOM 2020 · 27–29 October 2020",
-    "poster": true,
-    "conferenceId": "wincom-2020",
-    "sourceUrl": "https://www.wincom-conf.org/WINCOM_2020/"
-  },
-  {
-    "src": "../assets/manifestations/conferences/wincom-2019.webp",
-    "scope": "international",
-    "caption": "WINCOM 2019 · 29 October–1 November 2019",
-    "poster": true,
-    "conferenceId": "wincom-2019",
-    "sourceUrl": "https://www.wincom-conf.org/WINCOM_2019/"
-  },
-  {
     "src": "../assets/manifestations/conferences/isivc-2022-affiche.webp",
     "scope": "international",
     "caption": "ISIVC 2022 · 18–20 May 2022",
