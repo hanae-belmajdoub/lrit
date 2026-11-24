@@ -1,9 +1,0 @@
-Site Master IT — 24 novembre 2026
-
-Sur Mac : ouvrez Terminal dans le dossier Site_Master_IT puis exécutez :
-python3 demarrer_site.py
-
-Sur GitHub Pages : envoyez le contenu de dist à la racine du dépôt Master.
-Pour le site global LRIT, utilisez le correctif MAJ_LRIT_conferences_2026.zip, qui inclut master-it/.
-
-Les annonces d’inscription et de rentrée S1/S3 sont dans dist/index.html et dist/en/index.html. Remplacez les textes Annonce à venir lorsque les dates officielles sont disponibles.
